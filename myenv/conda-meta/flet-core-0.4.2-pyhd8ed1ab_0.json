@@ -1,0 +1,1332 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<4.0",
+    "repath >=0.9.0,<1.0.0",
+    "typing-extensions >=4.4.0,<5.0.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\flet-core-0.4.2-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/flet_core-0.4.2.dist-info/INSTALLER",
+    "Lib/site-packages/flet_core-0.4.2.dist-info/METADATA",
+    "Lib/site-packages/flet_core-0.4.2.dist-info/RECORD",
+    "Lib/site-packages/flet_core-0.4.2.dist-info/REQUESTED",
+    "Lib/site-packages/flet_core-0.4.2.dist-info/WHEEL",
+    "Lib/site-packages/flet_core-0.4.2.dist-info/direct_url.json",
+    "Lib/site-packages/flet_core-0.4.2.dist-info/top_level.txt",
+    "Lib/site-packages/flet_core/__init__.py",
+    "Lib/site-packages/flet_core/alert_dialog.py",
+    "Lib/site-packages/flet_core/alignment.py",
+    "Lib/site-packages/flet_core/animated_switcher.py",
+    "Lib/site-packages/flet_core/animation.py",
+    "Lib/site-packages/flet_core/app_bar.py",
+    "Lib/site-packages/flet_core/audio.py",
+    "Lib/site-packages/flet_core/banner.py",
+    "Lib/site-packages/flet_core/border.py",
+    "Lib/site-packages/flet_core/border_radius.py",
+    "Lib/site-packages/flet_core/bottom_sheet.py",
+    "Lib/site-packages/flet_core/buttons.py",
+    "Lib/site-packages/flet_core/callable_control.py",
+    "Lib/site-packages/flet_core/card.py",
+    "Lib/site-packages/flet_core/checkbox.py",
+    "Lib/site-packages/flet_core/circle_avatar.py",
+    "Lib/site-packages/flet_core/client_storage.py",
+    "Lib/site-packages/flet_core/clipboard.py",
+    "Lib/site-packages/flet_core/colors.py",
+    "Lib/site-packages/flet_core/column.py",
+    "Lib/site-packages/flet_core/connection.py",
+    "Lib/site-packages/flet_core/constrained_control.py",
+    "Lib/site-packages/flet_core/container.py",
+    "Lib/site-packages/flet_core/control.py",
+    "Lib/site-packages/flet_core/control_event.py",
+    "Lib/site-packages/flet_core/datatable.py",
+    "Lib/site-packages/flet_core/divider.py",
+    "Lib/site-packages/flet_core/drag_target.py",
+    "Lib/site-packages/flet_core/draggable.py",
+    "Lib/site-packages/flet_core/dropdown.py",
+    "Lib/site-packages/flet_core/elevated_button.py",
+    "Lib/site-packages/flet_core/embed_json_encoder.py",
+    "Lib/site-packages/flet_core/event.py",
+    "Lib/site-packages/flet_core/event_handler.py",
+    "Lib/site-packages/flet_core/file_picker.py",
+    "Lib/site-packages/flet_core/filled_button.py",
+    "Lib/site-packages/flet_core/filled_tonal_button.py",
+    "Lib/site-packages/flet_core/flet_app.py",
+    "Lib/site-packages/flet_core/floating_action_button.py",
+    "Lib/site-packages/flet_core/focus.py",
+    "Lib/site-packages/flet_core/form_field_control.py",
+    "Lib/site-packages/flet_core/gesture_detector.py",
+    "Lib/site-packages/flet_core/gradients.py",
+    "Lib/site-packages/flet_core/grid_view.py",
+    "Lib/site-packages/flet_core/haptic_feedback.py",
+    "Lib/site-packages/flet_core/icon.py",
+    "Lib/site-packages/flet_core/icon_button.py",
+    "Lib/site-packages/flet_core/icons.py",
+    "Lib/site-packages/flet_core/image.py",
+    "Lib/site-packages/flet_core/list_tile.py",
+    "Lib/site-packages/flet_core/list_view.py",
+    "Lib/site-packages/flet_core/local_connection.py",
+    "Lib/site-packages/flet_core/margin.py",
+    "Lib/site-packages/flet_core/markdown.py",
+    "Lib/site-packages/flet_core/matplotlib_chart.py",
+    "Lib/site-packages/flet_core/navigation_bar.py",
+    "Lib/site-packages/flet_core/navigation_rail.py",
+    "Lib/site-packages/flet_core/outlined_button.py",
+    "Lib/site-packages/flet_core/padding.py",
+    "Lib/site-packages/flet_core/page.py",
+    "Lib/site-packages/flet_core/plotly_chart.py",
+    "Lib/site-packages/flet_core/popup_menu_button.py",
+    "Lib/site-packages/flet_core/progress_bar.py",
+    "Lib/site-packages/flet_core/progress_ring.py",
+    "Lib/site-packages/flet_core/protocol.py",
+    "Lib/site-packages/flet_core/querystring.py",
+    "Lib/site-packages/flet_core/radio.py",
+    "Lib/site-packages/flet_core/radio_group.py",
+    "Lib/site-packages/flet_core/ref.py",
+    "Lib/site-packages/flet_core/responsive_row.py",
+    "Lib/site-packages/flet_core/row.py",
+    "Lib/site-packages/flet_core/semantics.py",
+    "Lib/site-packages/flet_core/session_storage.py",
+    "Lib/site-packages/flet_core/shader_mask.py",
+    "Lib/site-packages/flet_core/shake_detector.py",
+    "Lib/site-packages/flet_core/slider.py",
+    "Lib/site-packages/flet_core/snack_bar.py",
+    "Lib/site-packages/flet_core/stack.py",
+    "Lib/site-packages/flet_core/switch.py",
+    "Lib/site-packages/flet_core/tabs.py",
+    "Lib/site-packages/flet_core/template_route.py",
+    "Lib/site-packages/flet_core/text.py",
+    "Lib/site-packages/flet_core/text_button.py",
+    "Lib/site-packages/flet_core/text_style.py",
+    "Lib/site-packages/flet_core/textfield.py",
+    "Lib/site-packages/flet_core/theme.py",
+    "Lib/site-packages/flet_core/tooltip.py",
+    "Lib/site-packages/flet_core/transform.py",
+    "Lib/site-packages/flet_core/transparent_pointer.py",
+    "Lib/site-packages/flet_core/types.py",
+    "Lib/site-packages/flet_core/user_control.py",
+    "Lib/site-packages/flet_core/utils.py",
+    "Lib/site-packages/flet_core/vertical_divider.py",
+    "Lib/site-packages/flet_core/view.py",
+    "Lib/site-packages/flet_core/window_drag_area.py",
+    ".nonadmin",
+    "Lib/site-packages/flet_core/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/alert_dialog.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/alignment.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/animated_switcher.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/animation.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/app_bar.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/audio.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/banner.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/border.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/border_radius.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/bottom_sheet.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/buttons.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/callable_control.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/card.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/checkbox.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/circle_avatar.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/client_storage.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/clipboard.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/colors.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/column.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/connection.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/constrained_control.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/container.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/control.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/control_event.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/datatable.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/divider.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/drag_target.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/draggable.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/dropdown.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/elevated_button.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/embed_json_encoder.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/event.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/event_handler.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/file_picker.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/filled_button.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/filled_tonal_button.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/flet_app.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/floating_action_button.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/focus.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/form_field_control.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/gesture_detector.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/gradients.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/grid_view.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/haptic_feedback.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/icon.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/icon_button.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/icons.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/image.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/list_tile.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/list_view.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/local_connection.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/margin.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/markdown.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/matplotlib_chart.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/navigation_bar.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/navigation_rail.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/outlined_button.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/padding.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/page.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/plotly_chart.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/popup_menu_button.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/progress_bar.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/progress_ring.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/protocol.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/querystring.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/radio.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/radio_group.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/ref.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/responsive_row.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/row.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/semantics.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/session_storage.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/shader_mask.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/shake_detector.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/slider.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/snack_bar.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/stack.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/switch.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/tabs.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/template_route.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/text.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/text_button.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/text_style.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/textfield.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/theme.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/tooltip.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/transform.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/transparent_pointer.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/types.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/user_control.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/utils.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/vertical_divider.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/view.cpython-311.pyc",
+    "Lib/site-packages/flet_core/__pycache__/window_drag_area.cpython-311.pyc"
+  ],
+  "fn": "flet-core-0.4.2-pyhd8ed1ab_0.conda",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\flet-core-0.4.2-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "bf77d53947e348e691d2a13028574b23",
+  "name": "flet-core",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\flet-core-0.4.2-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/flet_core-0.4.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/flet_core-0.4.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "946dd94bdc1983262f6d342ad28882bfd717ff454e5c0dd4566efbb64a4f3eec",
+        "sha256_in_prefix": "946dd94bdc1983262f6d342ad28882bfd717ff454e5c0dd4566efbb64a4f3eec",
+        "size_in_bytes": 529
+      },
+      {
+        "_path": "site-packages/flet_core-0.4.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "0e2ad2dd04cc409612b53c63bc95f6a7eb9a7b86691d9c4c7ad48c923ffb4956",
+        "sha256_in_prefix": "0e2ad2dd04cc409612b53c63bc95f6a7eb9a7b86691d9c4c7ad48c923ffb4956",
+        "size_in_bytes": 13246
+      },
+      {
+        "_path": "site-packages/flet_core-0.4.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/flet_core-0.4.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "sha256_in_prefix": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/flet_core-0.4.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6bdc6ad8d509ca3ffb704f04fb02619d7fe91f60bbbb669ea31f924cee4d8f58",
+        "sha256_in_prefix": "6bdc6ad8d509ca3ffb704f04fb02619d7fe91f60bbbb669ea31f924cee4d8f58",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/flet_core-0.4.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "74e0c3485673896f07fe18b477da872cd2c44421d74ec0609ea801cee507ca16",
+        "sha256_in_prefix": "74e0c3485673896f07fe18b477da872cd2c44421d74ec0609ea801cee507ca16",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "site-packages/flet_core/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "805a766fbfacf523856667389c293660e56fd1e9d3316046a10f28dbb23c9389",
+        "sha256_in_prefix": "805a766fbfacf523856667389c293660e56fd1e9d3316046a10f28dbb23c9389",
+        "size_in_bytes": 4996
+      },
+      {
+        "_path": "site-packages/flet_core/alert_dialog.py",
+        "path_type": "hardlink",
+        "sha256": "27e913c7522911b4641970aeb01d9d0f38a1ba42c4feb455e32ee83cb72ee2d9",
+        "sha256_in_prefix": "27e913c7522911b4641970aeb01d9d0f38a1ba42c4feb455e32ee83cb72ee2d9",
+        "size_in_bytes": 6774
+      },
+      {
+        "_path": "site-packages/flet_core/alignment.py",
+        "path_type": "hardlink",
+        "sha256": "62cebdeb683fac05498ca976b14d9f3f735ac2c07741fbee4c7df659e69d8842",
+        "sha256_in_prefix": "62cebdeb683fac05498ca976b14d9f3f735ac2c07741fbee4c7df659e69d8842",
+        "size_in_bytes": 407
+      },
+      {
+        "_path": "site-packages/flet_core/animated_switcher.py",
+        "path_type": "hardlink",
+        "sha256": "8262ea7bd07ee859df3c4a60ef8343191cbb3738b72fd657ea10154792ba4eeb",
+        "sha256_in_prefix": "8262ea7bd07ee859df3c4a60ef8343191cbb3738b72fd657ea10154792ba4eeb",
+        "size_in_bytes": 7226
+      },
+      {
+        "_path": "site-packages/flet_core/animation.py",
+        "path_type": "hardlink",
+        "sha256": "cb1a0a6d341ce844d60fe973ddb592b3ef00322230260a1f0dbe3cf5c9abe5b3",
+        "sha256_in_prefix": "cb1a0a6d341ce844d60fe973ddb592b3ef00322230260a1f0dbe3cf5c9abe5b3",
+        "size_in_bytes": 2806
+      },
+      {
+        "_path": "site-packages/flet_core/app_bar.py",
+        "path_type": "hardlink",
+        "sha256": "405678d82af2985a6283c6ab2f12bbf1eae9812c12ff87c2a4f207ad48240607",
+        "sha256_in_prefix": "405678d82af2985a6283c6ab2f12bbf1eae9812c12ff87c2a4f207ad48240607",
+        "size_in_bytes": 5403
+      },
+      {
+        "_path": "site-packages/flet_core/audio.py",
+        "path_type": "hardlink",
+        "sha256": "de1aecd9dc532eb668c4b4566a2cb9d2b4d1270e0fc65c4fe80292ff21589f75",
+        "sha256_in_prefix": "de1aecd9dc532eb668c4b4566a2cb9d2b4d1270e0fc65c4fe80292ff21589f75",
+        "size_in_bytes": 7301
+      },
+      {
+        "_path": "site-packages/flet_core/banner.py",
+        "path_type": "hardlink",
+        "sha256": "8d9a2a47e94f27d14710c4e7bd656bdea2caa1c1f4724fbed39b3ee6cab367a9",
+        "sha256_in_prefix": "8d9a2a47e94f27d14710c4e7bd656bdea2caa1c1f4724fbed39b3ee6cab367a9",
+        "size_in_bytes": 5446
+      },
+      {
+        "_path": "site-packages/flet_core/border.py",
+        "path_type": "hardlink",
+        "sha256": "bdb374fa2d317a3cd5d6b8464c94bf05e0f23f214d3ff5b07decf72925afb0ef",
+        "sha256_in_prefix": "bdb374fa2d317a3cd5d6b8464c94bf05e0f23f214d3ff5b07decf72925afb0ef",
+        "size_in_bytes": 1079
+      },
+      {
+        "_path": "site-packages/flet_core/border_radius.py",
+        "path_type": "hardlink",
+        "sha256": "6549941f67d9d468d7e1d82a9dc36c7a9a3065c18a1227aeb417ef7dcb615031",
+        "sha256_in_prefix": "6549941f67d9d468d7e1d82a9dc36c7a9a3065c18a1227aeb417ef7dcb615031",
+        "size_in_bytes": 930
+      },
+      {
+        "_path": "site-packages/flet_core/bottom_sheet.py",
+        "path_type": "hardlink",
+        "sha256": "c40251889db155225896739ace3e0d09f909bd43419d3d39e63f45e71e0cdf2b",
+        "sha256_in_prefix": "c40251889db155225896739ace3e0d09f909bd43419d3d39e63f45e71e0cdf2b",
+        "size_in_bytes": 2826
+      },
+      {
+        "_path": "site-packages/flet_core/buttons.py",
+        "path_type": "hardlink",
+        "sha256": "7cd1990ef711f7154df6d24386357da319862d97abbfc7a809570eee02eb6964",
+        "sha256_in_prefix": "7cd1990ef711f7154df6d24386357da319862d97abbfc7a809570eee02eb6964",
+        "size_in_bytes": 2202
+      },
+      {
+        "_path": "site-packages/flet_core/callable_control.py",
+        "path_type": "hardlink",
+        "sha256": "9e4477c2d5d92fc1264407942ab64a3db25b9259a7dd2a521720b3752077e4d2",
+        "sha256_in_prefix": "9e4477c2d5d92fc1264407942ab64a3db25b9259a7dd2a521720b3752077e4d2",
+        "size_in_bytes": 3036
+      },
+      {
+        "_path": "site-packages/flet_core/card.py",
+        "path_type": "hardlink",
+        "sha256": "d1acfc5df82d2ec193077d164a2e469656ee032cf0f290cb31a7603571175af3",
+        "sha256_in_prefix": "d1acfc5df82d2ec193077d164a2e469656ee032cf0f290cb31a7603571175af3",
+        "size_in_bytes": 4754
+      },
+      {
+        "_path": "site-packages/flet_core/checkbox.py",
+        "path_type": "hardlink",
+        "sha256": "03417e7135db1e00cc68f313ef90118dfca097ea7c2868797ed5dd44783e3dfb",
+        "sha256_in_prefix": "03417e7135db1e00cc68f313ef90118dfca097ea7c2868797ed5dd44783e3dfb",
+        "size_in_bytes": 7122
+      },
+      {
+        "_path": "site-packages/flet_core/circle_avatar.py",
+        "path_type": "hardlink",
+        "sha256": "95479a820580527cc08b96734874b366b6318365f5522f847d75dbed29e37a2e",
+        "sha256_in_prefix": "95479a820580527cc08b96734874b366b6318365f5522f847d75dbed29e37a2e",
+        "size_in_bytes": 6739
+      },
+      {
+        "_path": "site-packages/flet_core/client_storage.py",
+        "path_type": "hardlink",
+        "sha256": "3a85daadf78d95504247569ef908d5b9f90979a356227821f9a8df7398c13562",
+        "sha256_in_prefix": "3a85daadf78d95504247569ef908d5b9f90979a356227821f9a8df7398c13562",
+        "size_in_bytes": 3085
+      },
+      {
+        "_path": "site-packages/flet_core/clipboard.py",
+        "path_type": "hardlink",
+        "sha256": "088085c5aa85b10bb0c81aeabf6cc3b28f8ec01d70274381811affbef0112113",
+        "sha256_in_prefix": "088085c5aa85b10bb0c81aeabf6cc3b28f8ec01d70274381811affbef0112113",
+        "size_in_bytes": 1002
+      },
+      {
+        "_path": "site-packages/flet_core/colors.py",
+        "path_type": "hardlink",
+        "sha256": "ac710730260aa2074554c27f531c242656a5e57d8f11f9d51ca9992d3d5bcbb1",
+        "sha256_in_prefix": "ac710730260aa2074554c27f531c242656a5e57d8f11f9d51ca9992d3d5bcbb1",
+        "size_in_bytes": 10324
+      },
+      {
+        "_path": "site-packages/flet_core/column.py",
+        "path_type": "hardlink",
+        "sha256": "65e3f2c217066b39482c5eb93783bec5e9038f16971eb5a5eb8969bd764b8b44",
+        "sha256_in_prefix": "65e3f2c217066b39482c5eb93783bec5e9038f16971eb5a5eb8969bd764b8b44",
+        "size_in_bytes": 7305
+      },
+      {
+        "_path": "site-packages/flet_core/connection.py",
+        "path_type": "hardlink",
+        "sha256": "8f0cfce5792535d3905d91b2a3055e33d1c9f2e113f2552387d3f06ac6762120",
+        "sha256_in_prefix": "8f0cfce5792535d3905d91b2a3055e33d1c9f2e113f2552387d3f06ac6762120",
+        "size_in_bytes": 1132
+      },
+      {
+        "_path": "site-packages/flet_core/constrained_control.py",
+        "path_type": "hardlink",
+        "sha256": "2d8db7b547265a7a10bc854964b9e5c2541da10813d65380fb04d555922c5c7c",
+        "sha256_in_prefix": "2d8db7b547265a7a10bc854964b9e5c2541da10813d65380fb04d555922c5c7c",
+        "size_in_bytes": 6848
+      },
+      {
+        "_path": "site-packages/flet_core/container.py",
+        "path_type": "hardlink",
+        "sha256": "d61a47caa501c0cf33f519074a01d61221cae6bc5ef7e04935ac63d1d4a34341",
+        "sha256_in_prefix": "d61a47caa501c0cf33f519074a01d61221cae6bc5ef7e04935ac63d1d4a34341",
+        "size_in_bytes": 12411
+      },
+      {
+        "_path": "site-packages/flet_core/control.py",
+        "path_type": "hardlink",
+        "sha256": "ae59956c9f7df74e3a8bd165d62644e0da2e9bf8bea74b12fc604b9ec47bc9a9",
+        "sha256_in_prefix": "ae59956c9f7df74e3a8bd165d62644e0da2e9bf8bea74b12fc604b9ec47bc9a9",
+        "size_in_bytes": 13894
+      },
+      {
+        "_path": "site-packages/flet_core/control_event.py",
+        "path_type": "hardlink",
+        "sha256": "5200913071abe530cd5db4af142a83d7d3c4381f85267cbe76d2ae92756c37d5",
+        "sha256_in_prefix": "5200913071abe530cd5db4af142a83d7d3c4381f85267cbe76d2ae92756c37d5",
+        "size_in_bytes": 260
+      },
+      {
+        "_path": "site-packages/flet_core/datatable.py",
+        "path_type": "hardlink",
+        "sha256": "704dda283a50a81322b309adb52e05b78e049146d09dfb62c8cc61b87b9e6484",
+        "sha256_in_prefix": "704dda283a50a81322b309adb52e05b78e049146d09dfb62c8cc61b87b9e6484",
+        "size_in_bytes": 20221
+      },
+      {
+        "_path": "site-packages/flet_core/divider.py",
+        "path_type": "hardlink",
+        "sha256": "046edcd3106a8b63d0b1ec951c3c126c0d1fbfebe8e8b88489843ba3d6bae701",
+        "sha256_in_prefix": "046edcd3106a8b63d0b1ec951c3c126c0d1fbfebe8e8b88489843ba3d6bae701",
+        "size_in_bytes": 2263
+      },
+      {
+        "_path": "site-packages/flet_core/drag_target.py",
+        "path_type": "hardlink",
+        "sha256": "c6f486b4ae97ff94cb1e5ba3d7ea0c63183bc0b4b1b978c527f496d48cbb5882",
+        "sha256_in_prefix": "c6f486b4ae97ff94cb1e5ba3d7ea0c63183bc0b4b1b978c527f496d48cbb5882",
+        "size_in_bytes": 6270
+      },
+      {
+        "_path": "site-packages/flet_core/draggable.py",
+        "path_type": "hardlink",
+        "sha256": "4ad3be188c0dd5aa9310cd278b4141b5f8011a1da6e0fe4c693958c4f186272e",
+        "sha256_in_prefix": "4ad3be188c0dd5aa9310cd278b4141b5f8011a1da6e0fe4c693958c4f186272e",
+        "size_in_bytes": 6063
+      },
+      {
+        "_path": "site-packages/flet_core/dropdown.py",
+        "path_type": "hardlink",
+        "sha256": "b139ac88767b77e8b9f4780d2a3716be2163397a35c93b33d471dd15eb5040e2",
+        "sha256_in_prefix": "b139ac88767b77e8b9f4780d2a3716be2163397a35c93b33d471dd15eb5040e2",
+        "size_in_bytes": 9137
+      },
+      {
+        "_path": "site-packages/flet_core/elevated_button.py",
+        "path_type": "hardlink",
+        "sha256": "4b63f87b97de3246fce2cc9319fc03a2fb874c938fd149cb486a37979457bb25",
+        "sha256_in_prefix": "4b63f87b97de3246fce2cc9319fc03a2fb874c938fd149cb486a37979457bb25",
+        "size_in_bytes": 7315
+      },
+      {
+        "_path": "site-packages/flet_core/embed_json_encoder.py",
+        "path_type": "hardlink",
+        "sha256": "249a83068856448ed3976daa84968f10220de11c231d0ec8338271da0be4d889",
+        "sha256_in_prefix": "249a83068856448ed3976daa84968f10220de11c231d0ec8338271da0be4d889",
+        "size_in_bytes": 2166
+      },
+      {
+        "_path": "site-packages/flet_core/event.py",
+        "path_type": "hardlink",
+        "sha256": "f9778d7726c029c2f2102c673ef0cbc3a56f6709597f38f29ad67bb8f5d1da57",
+        "sha256_in_prefix": "f9778d7726c029c2f2102c673ef0cbc3a56f6709597f38f29ad67bb8f5d1da57",
+        "size_in_bytes": 166
+      },
+      {
+        "_path": "site-packages/flet_core/event_handler.py",
+        "path_type": "hardlink",
+        "sha256": "070fc284a831fb06fb095addb0830ef46867fa9a49462ce654fb7c49b3f14721",
+        "sha256_in_prefix": "070fc284a831fb06fb095addb0830ef46867fa9a49462ce654fb7c49b3f14721",
+        "size_in_bytes": 1839
+      },
+      {
+        "_path": "site-packages/flet_core/file_picker.py",
+        "path_type": "hardlink",
+        "sha256": "08e17edb7f5197d06b80b61c1e57597fda3a35f9abdf345622745d00ec686c12",
+        "sha256_in_prefix": "08e17edb7f5197d06b80b61c1e57597fda3a35f9abdf345622745d00ec686c12",
+        "size_in_bytes": 9777
+      },
+      {
+        "_path": "site-packages/flet_core/filled_button.py",
+        "path_type": "hardlink",
+        "sha256": "6af1e4a7505abffc2388ee7d1136463aa516cda0e8c77faeb319b597f63651db",
+        "sha256_in_prefix": "6af1e4a7505abffc2388ee7d1136463aa516cda0e8c77faeb319b597f63651db",
+        "size_in_bytes": 2505
+      },
+      {
+        "_path": "site-packages/flet_core/filled_tonal_button.py",
+        "path_type": "hardlink",
+        "sha256": "c187eeac84f3601bc3edb49e395681b3ddcd02dfeb9740e4bd8fafb3ab8aa8ed",
+        "sha256_in_prefix": "c187eeac84f3601bc3edb49e395681b3ddcd02dfeb9740e4bd8fafb3ab8aa8ed",
+        "size_in_bytes": 2639
+      },
+      {
+        "_path": "site-packages/flet_core/flet_app.py",
+        "path_type": "hardlink",
+        "sha256": "26a7e85874e082e199e1ca7147420d1f60f9da80c72d2133d809a3edb8e808dd",
+        "sha256_in_prefix": "26a7e85874e082e199e1ca7147420d1f60f9da80c72d2133d809a3edb8e808dd",
+        "size_in_bytes": 2458
+      },
+      {
+        "_path": "site-packages/flet_core/floating_action_button.py",
+        "path_type": "hardlink",
+        "sha256": "bb128107c1819f1fc48a0b90e013acc180a0f5c8656d761a85d2ef0014b5bdb6",
+        "sha256_in_prefix": "bb128107c1819f1fc48a0b90e013acc180a0f5c8656d761a85d2ef0014b5bdb6",
+        "size_in_bytes": 6556
+      },
+      {
+        "_path": "site-packages/flet_core/focus.py",
+        "path_type": "hardlink",
+        "sha256": "23aa2458a68c0d7d2afc7c7e10bd96d69190397929502be2e27f9503d249b4e2",
+        "sha256_in_prefix": "23aa2458a68c0d7d2afc7c7e10bd96d69190397929502be2e27f9503d249b4e2",
+        "size_in_bytes": 120
+      },
+      {
+        "_path": "site-packages/flet_core/form_field_control.py",
+        "path_type": "hardlink",
+        "sha256": "6e7234c6157992ad69eca6de39abc66072c12f8a593c3467b35620a5722e31c4",
+        "sha256_in_prefix": "6e7234c6157992ad69eca6de39abc66072c12f8a593c3467b35620a5722e31c4",
+        "size_in_bytes": 13925
+      },
+      {
+        "_path": "site-packages/flet_core/gesture_detector.py",
+        "path_type": "hardlink",
+        "sha256": "5a7b688a38b5ca40971c0b9150da92c4d905137d22a8032e51026c07eeec7a31",
+        "sha256_in_prefix": "5a7b688a38b5ca40971c0b9150da92c4d905137d22a8032e51026c07eeec7a31",
+        "size_in_bytes": 27963
+      },
+      {
+        "_path": "site-packages/flet_core/gradients.py",
+        "path_type": "hardlink",
+        "sha256": "fec540e2d68d42f3717c39e7b54aee0a33d10a264f599d1dddc88c537f9c21a1",
+        "sha256_in_prefix": "fec540e2d68d42f3717c39e7b54aee0a33d10a264f599d1dddc88c537f9c21a1",
+        "size_in_bytes": 1531
+      },
+      {
+        "_path": "site-packages/flet_core/grid_view.py",
+        "path_type": "hardlink",
+        "sha256": "27b73c8bb45d1c67c736c8842f34afb30f11d1bc34136496dcd22a16488fbf76",
+        "sha256_in_prefix": "27b73c8bb45d1c67c736c8842f34afb30f11d1bc34136496dcd22a16488fbf76",
+        "size_in_bytes": 6301
+      },
+      {
+        "_path": "site-packages/flet_core/haptic_feedback.py",
+        "path_type": "hardlink",
+        "sha256": "4b6778b718d8f3298521e668c8a888fa67833da58919b457e0630e7689fcdf01",
+        "sha256_in_prefix": "4b6778b718d8f3298521e668c8a888fa67833da58919b457e0630e7689fcdf01",
+        "size_in_bytes": 2134
+      },
+      {
+        "_path": "site-packages/flet_core/icon.py",
+        "path_type": "hardlink",
+        "sha256": "65427a5f218c499c01e250991a1c103f28f9b303ec6b63dcaa23f5eff9fdb7d9",
+        "sha256_in_prefix": "65427a5f218c499c01e250991a1c103f28f9b303ec6b63dcaa23f5eff9fdb7d9",
+        "size_in_bytes": 3375
+      },
+      {
+        "_path": "site-packages/flet_core/icon_button.py",
+        "path_type": "hardlink",
+        "sha256": "126bf7181a7c92cbcf385a2f1c5975f86f0c07123d54405f1070fe2161ceb251",
+        "sha256_in_prefix": "126bf7181a7c92cbcf385a2f1c5975f86f0c07123d54405f1070fe2161ceb251",
+        "size_in_bytes": 6949
+      },
+      {
+        "_path": "site-packages/flet_core/icons.py",
+        "path_type": "hardlink",
+        "sha256": "226b589369ec3b0ed5682879f00c3a0ec86741921b74dfd0164c708c120529dc",
+        "sha256_in_prefix": "226b589369ec3b0ed5682879f00c3a0ec86741921b74dfd0164c708c120529dc",
+        "size_in_bytes": 362652
+      },
+      {
+        "_path": "site-packages/flet_core/image.py",
+        "path_type": "hardlink",
+        "sha256": "6e393ee6e088d0373a5d6ad245ec03fb0624736fd0d7e72c803100e89634ae9d",
+        "sha256_in_prefix": "6e393ee6e088d0373a5d6ad245ec03fb0624736fd0d7e72c803100e89634ae9d",
+        "size_in_bytes": 6530
+      },
+      {
+        "_path": "site-packages/flet_core/list_tile.py",
+        "path_type": "hardlink",
+        "sha256": "f833f9664e543995d5d24f5b492445e4e644d64d3516ee3abdd6f0a5487211c3",
+        "sha256_in_prefix": "f833f9664e543995d5d24f5b492445e4e644d64d3516ee3abdd6f0a5487211c3",
+        "size_in_bytes": 7805
+      },
+      {
+        "_path": "site-packages/flet_core/list_view.py",
+        "path_type": "hardlink",
+        "sha256": "4726a6463f6f54feadf593e95a8d8eca230d03f499825ecf9e9df37df3f99e15",
+        "sha256_in_prefix": "4726a6463f6f54feadf593e95a8d8eca230d03f499825ecf9e9df37df3f99e15",
+        "size_in_bytes": 6206
+      },
+      {
+        "_path": "site-packages/flet_core/local_connection.py",
+        "path_type": "hardlink",
+        "sha256": "4b373311c287013d67f352f7da9ca1795979bef7afee35eff4a1c9978daca24d",
+        "sha256_in_prefix": "4b373311c287013d67f352f7da9ca1795979bef7afee35eff4a1c9978daca24d",
+        "size_in_bytes": 8604
+      },
+      {
+        "_path": "site-packages/flet_core/margin.py",
+        "path_type": "hardlink",
+        "sha256": "794508fa52c7a18cd4d0009501719609a7c07fb0f7406f47d3b67de448526df8",
+        "sha256_in_prefix": "794508fa52c7a18cd4d0009501719609a7c07fb0f7406f47d3b67de448526df8",
+        "size_in_bytes": 583
+      },
+      {
+        "_path": "site-packages/flet_core/markdown.py",
+        "path_type": "hardlink",
+        "sha256": "61b1b41ec7bc3ed7623da2c3756db52ed2eeac626d8b970bb941d9f3031042b4",
+        "sha256_in_prefix": "61b1b41ec7bc3ed7623da2c3756db52ed2eeac626d8b970bb941d9f3031042b4",
+        "size_in_bytes": 5165
+      },
+      {
+        "_path": "site-packages/flet_core/matplotlib_chart.py",
+        "path_type": "hardlink",
+        "sha256": "7436109af23a3e07fb451d90514abfa8164fdc84cc5d649f92e207904ac83da5",
+        "sha256_in_prefix": "7436109af23a3e07fb451d90514abfa8164fdc84cc5d649f92e207904ac83da5",
+        "size_in_bytes": 5125
+      },
+      {
+        "_path": "site-packages/flet_core/navigation_bar.py",
+        "path_type": "hardlink",
+        "sha256": "71486bdc5e2aacad1e510545a2ff32ccbd80d4fec10d5079a436ca7314f945f2",
+        "sha256_in_prefix": "71486bdc5e2aacad1e510545a2ff32ccbd80d4fec10d5079a436ca7314f945f2",
+        "size_in_bytes": 8322
+      },
+      {
+        "_path": "site-packages/flet_core/navigation_rail.py",
+        "path_type": "hardlink",
+        "sha256": "ac9497697109eb63644e631ad063c4a44a95e0054797c23b4376297ae33ceb5b",
+        "sha256_in_prefix": "ac9497697109eb63644e631ad063c4a44a95e0054797c23b4376297ae33ceb5b",
+        "size_in_bytes": 11986
+      },
+      {
+        "_path": "site-packages/flet_core/outlined_button.py",
+        "path_type": "hardlink",
+        "sha256": "bc53899426a03fc92dbcff3a5afcf598284f357003106a49b68651094a041310",
+        "sha256_in_prefix": "bc53899426a03fc92dbcff3a5afcf598284f357003106a49b68651094a041310",
+        "size_in_bytes": 6000
+      },
+      {
+        "_path": "site-packages/flet_core/padding.py",
+        "path_type": "hardlink",
+        "sha256": "5d77a789ea4edbe90ea8dc04fa81fcd11743f97541b0be1a0c76353f0d87344c",
+        "sha256_in_prefix": "5d77a789ea4edbe90ea8dc04fa81fcd11743f97541b0be1a0c76353f0d87344c",
+        "size_in_bytes": 587
+      },
+      {
+        "_path": "site-packages/flet_core/page.py",
+        "path_type": "hardlink",
+        "sha256": "636486d1dcdae47e6d8198d6a3f875b9f67db1b1722d24d10d55f3cb2cec2c0b",
+        "sha256_in_prefix": "636486d1dcdae47e6d8198d6a3f875b9f67db1b1722d24d10d55f3cb2cec2c0b",
+        "size_in_bytes": 51168
+      },
+      {
+        "_path": "site-packages/flet_core/plotly_chart.py",
+        "path_type": "hardlink",
+        "sha256": "d776e2679f1b4edf991bcb452a8bb564fba433aab64994859bf5831f182c3b5d",
+        "sha256_in_prefix": "d776e2679f1b4edf991bcb452a8bb564fba433aab64994859bf5831f182c3b5d",
+        "size_in_bytes": 4355
+      },
+      {
+        "_path": "site-packages/flet_core/popup_menu_button.py",
+        "path_type": "hardlink",
+        "sha256": "d73099b15391a2cc5fd062f7ee125508b2a2aabd446278609e853ea884b82600",
+        "sha256_in_prefix": "d73099b15391a2cc5fd062f7ee125508b2a2aabd446278609e853ea884b82600",
+        "size_in_bytes": 6756
+      },
+      {
+        "_path": "site-packages/flet_core/progress_bar.py",
+        "path_type": "hardlink",
+        "sha256": "418f2f052975bf8dde0b6fca8c37863d2fc09395626cc9266606ad136bd11641",
+        "sha256_in_prefix": "418f2f052975bf8dde0b6fca8c37863d2fc09395626cc9266606ad136bd11641",
+        "size_in_bytes": 4237
+      },
+      {
+        "_path": "site-packages/flet_core/progress_ring.py",
+        "path_type": "hardlink",
+        "sha256": "67a893b44bc2aa30f2009c5d6e0d117cc2584b5dd72f1725c10f6e3a40f3a30b",
+        "sha256_in_prefix": "67a893b44bc2aa30f2009c5d6e0d117cc2584b5dd72f1725c10f6e3a40f3a30b",
+        "size_in_bytes": 4435
+      },
+      {
+        "_path": "site-packages/flet_core/protocol.py",
+        "path_type": "hardlink",
+        "sha256": "0b7970a74e7d85bfdc21dc105ef090af9862189a0d98c528862e524b2a956948",
+        "sha256_in_prefix": "0b7970a74e7d85bfdc21dc105ef090af9862189a0d98c528862e524b2a956948",
+        "size_in_bytes": 4100
+      },
+      {
+        "_path": "site-packages/flet_core/querystring.py",
+        "path_type": "hardlink",
+        "sha256": "0f22ee9a0398e5383f2c2e31e05c6380ab09e6d59c068d07d6a6628effd68a40",
+        "sha256_in_prefix": "0f22ee9a0398e5383f2c2e31e05c6380ab09e6d59c068d07d6a6628effd68a40",
+        "size_in_bytes": 3470
+      },
+      {
+        "_path": "site-packages/flet_core/radio.py",
+        "path_type": "hardlink",
+        "sha256": "a88baf77c32446192630708998313e39a6d486b2bf685fe7b64e0ebb268ac66d",
+        "sha256_in_prefix": "a88baf77c32446192630708998313e39a6d486b2bf685fe7b64e0ebb268ac66d",
+        "size_in_bytes": 5731
+      },
+      {
+        "_path": "site-packages/flet_core/radio_group.py",
+        "path_type": "hardlink",
+        "sha256": "13df88a99373cffeed56cc723376a849037e574ad889d2cfac7b3fd6203345a1",
+        "sha256_in_prefix": "13df88a99373cffeed56cc723376a849037e574ad889d2cfac7b3fd6203345a1",
+        "size_in_bytes": 2389
+      },
+      {
+        "_path": "site-packages/flet_core/ref.py",
+        "path_type": "hardlink",
+        "sha256": "e6949c9d4aaf504f298751cb568ae560b9bb57e1fa5a12bca4d514d72c2ca820",
+        "sha256_in_prefix": "e6949c9d4aaf504f298751cb568ae560b9bb57e1fa5a12bca4d514d72c2ca820",
+        "size_in_bytes": 291
+      },
+      {
+        "_path": "site-packages/flet_core/responsive_row.py",
+        "path_type": "hardlink",
+        "sha256": "315d7c4580b14ee309a4b5c85d7fe1e6a687d875ad73598784be0fea20494b58",
+        "sha256_in_prefix": "315d7c4580b14ee309a4b5c85d7fe1e6a687d875ad73598784be0fea20494b58",
+        "size_in_bytes": 6354
+      },
+      {
+        "_path": "site-packages/flet_core/row.py",
+        "path_type": "hardlink",
+        "sha256": "80deeaf7fa9e1ab7b033ddee2dfe8aaa39ec8c4a3c72f4dc4456b280518db60f",
+        "sha256_in_prefix": "80deeaf7fa9e1ab7b033ddee2dfe8aaa39ec8c4a3c72f4dc4456b280518db60f",
+        "size_in_bytes": 7289
+      },
+      {
+        "_path": "site-packages/flet_core/semantics.py",
+        "path_type": "hardlink",
+        "sha256": "becd6f666ff16f421da8e2a8c61de9aa20981623834ae2d911c9194802cf2cd4",
+        "sha256_in_prefix": "becd6f666ff16f421da8e2a8c61de9aa20981623834ae2d911c9194802cf2cd4",
+        "size_in_bytes": 1637
+      },
+      {
+        "_path": "site-packages/flet_core/session_storage.py",
+        "path_type": "hardlink",
+        "sha256": "b86dfe7bb762ec9cdd2e0802c9d48f9057c10c1081ec7e633224726edac2de73",
+        "sha256_in_prefix": "b86dfe7bb762ec9cdd2e0802c9d48f9057c10c1081ec7e633224726edac2de73",
+        "size_in_bytes": 576
+      },
+      {
+        "_path": "site-packages/flet_core/shader_mask.py",
+        "path_type": "hardlink",
+        "sha256": "6e1370f07d0e8294d8cfe4a54ff9da8dbee07da0aea519b490d5c8c07007918c",
+        "sha256_in_prefix": "6e1370f07d0e8294d8cfe4a54ff9da8dbee07da0aea519b490d5c8c07007918c",
+        "size_in_bytes": 5318
+      },
+      {
+        "_path": "site-packages/flet_core/shake_detector.py",
+        "path_type": "hardlink",
+        "sha256": "f6d624eec92fd2816042c7c1d91b274a24b6cb7ae67c3b67e97d00e32fd96c89",
+        "sha256_in_prefix": "f6d624eec92fd2816042c7c1d91b274a24b6cb7ae67c3b67e97d00e32fd96c89",
+        "size_in_bytes": 2919
+      },
+      {
+        "_path": "site-packages/flet_core/slider.py",
+        "path_type": "hardlink",
+        "sha256": "0d5f4ac8996d4993cd54d24e21c92ddb6a15153cbceeb4fddb61c64b8c9a027c",
+        "sha256_in_prefix": "0d5f4ac8996d4993cd54d24e21c92ddb6a15153cbceeb4fddb61c64b8c9a027c",
+        "size_in_bytes": 7326
+      },
+      {
+        "_path": "site-packages/flet_core/snack_bar.py",
+        "path_type": "hardlink",
+        "sha256": "3a6aed5bdf5508504f1174870edee23f7b02ee0e3f23dbfbbbfc7a7649cd51f3",
+        "sha256_in_prefix": "3a6aed5bdf5508504f1174870edee23f7b02ee0e3f23dbfbbbfc7a7649cd51f3",
+        "size_in_bytes": 3675
+      },
+      {
+        "_path": "site-packages/flet_core/stack.py",
+        "path_type": "hardlink",
+        "sha256": "758bc40b2bf4fc1b8ce352b9f49c02519ce6ff46821e1bcc450a70aaaa8b11f7",
+        "sha256_in_prefix": "758bc40b2bf4fc1b8ce352b9f49c02519ce6ff46821e1bcc450a70aaaa8b11f7",
+        "size_in_bytes": 4833
+      },
+      {
+        "_path": "site-packages/flet_core/switch.py",
+        "path_type": "hardlink",
+        "sha256": "e160afc3dc44656774aa0a281788aab81010324f0038b7afcab25191a0952553",
+        "sha256_in_prefix": "e160afc3dc44656774aa0a281788aab81010324f0038b7afcab25191a0952553",
+        "size_in_bytes": 8092
+      },
+      {
+        "_path": "site-packages/flet_core/tabs.py",
+        "path_type": "hardlink",
+        "sha256": "1d8f4368db991605353466f558183227e03aa96265af78d7006abd65011397b9",
+        "sha256_in_prefix": "1d8f4368db991605353466f558183227e03aa96265af78d7006abd65011397b9",
+        "size_in_bytes": 6776
+      },
+      {
+        "_path": "site-packages/flet_core/template_route.py",
+        "path_type": "hardlink",
+        "sha256": "3883a75a9f8ef845cb1a22e78007ad1e21c6e23dfe2d971dde3c02c580f16f5a",
+        "sha256_in_prefix": "3883a75a9f8ef845cb1a22e78007ad1e21c6e23dfe2d971dde3c02c580f16f5a",
+        "size_in_bytes": 632
+      },
+      {
+        "_path": "site-packages/flet_core/text.py",
+        "path_type": "hardlink",
+        "sha256": "1ca31bfcf04ed2c2d0aba84df8329a69efc4ef5fe26610a81bfa82c06c154981",
+        "sha256_in_prefix": "1ca31bfcf04ed2c2d0aba84df8329a69efc4ef5fe26610a81bfa82c06c154981",
+        "size_in_bytes": 10042
+      },
+      {
+        "_path": "site-packages/flet_core/text_button.py",
+        "path_type": "hardlink",
+        "sha256": "9674ee6cf7bdf942bc093578cc575f7d00d8f312ae69e11f7d8add638a71764f",
+        "sha256_in_prefix": "9674ee6cf7bdf942bc093578cc575f7d00d8f312ae69e11f7d8add638a71764f",
+        "size_in_bytes": 5973
+      },
+      {
+        "_path": "site-packages/flet_core/text_style.py",
+        "path_type": "hardlink",
+        "sha256": "e0540325da2dbdd9cf39775c410011a9edc44f25bdc9215529ad20c681e48542",
+        "sha256_in_prefix": "e0540325da2dbdd9cf39775c410011a9edc44f25bdc9215529ad20c681e48542",
+        "size_in_bytes": 475
+      },
+      {
+        "_path": "site-packages/flet_core/textfield.py",
+        "path_type": "hardlink",
+        "sha256": "11885c18d84b9eed99f91f96a9e8fbcbdc00993ceeab1e9233505c3fc82041c1",
+        "sha256_in_prefix": "11885c18d84b9eed99f91f96a9e8fbcbdc00993ceeab1e9233505c3fc82041c1",
+        "size_in_bytes": 15404
+      },
+      {
+        "_path": "site-packages/flet_core/theme.py",
+        "path_type": "hardlink",
+        "sha256": "e1bcf2a944fb97660a12e9084552ffade28ba524f13f45ef35007472d13b651f",
+        "sha256_in_prefix": "e1bcf2a944fb97660a12e9084552ffade28ba524f13f45ef35007472d13b651f",
+        "size_in_bytes": 1482
+      },
+      {
+        "_path": "site-packages/flet_core/tooltip.py",
+        "path_type": "hardlink",
+        "sha256": "a6957a4f1dd68817776b6c9ad373aa8ae110f9ca8d2da55d558c83a9c25e7d9b",
+        "sha256_in_prefix": "a6957a4f1dd68817776b6c9ad373aa8ae110f9ca8d2da55d558c83a9c25e7d9b",
+        "size_in_bytes": 8345
+      },
+      {
+        "_path": "site-packages/flet_core/transform.py",
+        "path_type": "hardlink",
+        "sha256": "b26fc24f00472e1927ed4a748ecd33082aabf28ba005423e4454b88a38561892",
+        "sha256_in_prefix": "b26fc24f00472e1927ed4a748ecd33082aabf28ba005423e4454b88a38561892",
+        "size_in_bytes": 544
+      },
+      {
+        "_path": "site-packages/flet_core/transparent_pointer.py",
+        "path_type": "hardlink",
+        "sha256": "a3c0867fc2cec71b5d461703d218155b3f2d42268772dd9658f6bc3528905ac5",
+        "sha256_in_prefix": "a3c0867fc2cec71b5d461703d218155b3f2d42268772dd9658f6bc3528905ac5",
+        "size_in_bytes": 2753
+      },
+      {
+        "_path": "site-packages/flet_core/types.py",
+        "path_type": "hardlink",
+        "sha256": "89a8a1468c76dda5603ec8c155aa870c515cafaa775281aaf0ecb222f7370492",
+        "sha256_in_prefix": "89a8a1468c76dda5603ec8c155aa870c515cafaa775281aaf0ecb222f7370492",
+        "size_in_bytes": 5134
+      },
+      {
+        "_path": "site-packages/flet_core/user_control.py",
+        "path_type": "hardlink",
+        "sha256": "74cd9a67983237bcb58a994c604ef2634a4203e66526c4a422e8fb51db33d1bd",
+        "sha256_in_prefix": "74cd9a67983237bcb58a994c604ef2634a4203e66526c4a422e8fb51db33d1bd",
+        "size_in_bytes": 684
+      },
+      {
+        "_path": "site-packages/flet_core/utils.py",
+        "path_type": "hardlink",
+        "sha256": "76b8a18a88f312cae3264c44a2ddfeaff4464927223247bf216a5ca3fc8063a7",
+        "sha256_in_prefix": "76b8a18a88f312cae3264c44a2ddfeaff4464927223247bf216a5ca3fc8063a7",
+        "size_in_bytes": 409
+      },
+      {
+        "_path": "site-packages/flet_core/vertical_divider.py",
+        "path_type": "hardlink",
+        "sha256": "09ce14e616de6760fe733458f409dfbbdce7e7a7ee5e7a169c17802f3ba8ffda",
+        "sha256_in_prefix": "09ce14e616de6760fe733458f409dfbbdce7e7a7ee5e7a169c17802f3ba8ffda",
+        "size_in_bytes": 2337
+      },
+      {
+        "_path": "site-packages/flet_core/view.py",
+        "path_type": "hardlink",
+        "sha256": "83dbb813ddebb72f9906f55d77beefa85e7c5f437f7026f47cf44c3a2f98c46d",
+        "sha256_in_prefix": "83dbb813ddebb72f9906f55d77beefa85e7c5f437f7026f47cf44c3a2f98c46d",
+        "size_in_bytes": 6225
+      },
+      {
+        "_path": "site-packages/flet_core/window_drag_area.py",
+        "path_type": "hardlink",
+        "sha256": "b02e1c9f998bd324522e5761ac6f51e72f74484608e1a7e23f1141d38b0d191d",
+        "sha256_in_prefix": "b02e1c9f998bd324522e5761ac6f51e72f74484608e1a7e23f1141d38b0d191d",
+        "size_in_bytes": 3689
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/alert_dialog.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/alignment.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/animated_switcher.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/animation.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/app_bar.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/audio.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/banner.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/border.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/border_radius.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/bottom_sheet.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/buttons.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/callable_control.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/card.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/checkbox.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/circle_avatar.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/client_storage.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/clipboard.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/colors.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/column.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/connection.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/constrained_control.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/container.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/control.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/control_event.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/datatable.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/divider.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/drag_target.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/draggable.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/dropdown.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/elevated_button.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/embed_json_encoder.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/event.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/event_handler.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/file_picker.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/filled_button.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/filled_tonal_button.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/flet_app.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/floating_action_button.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/focus.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/form_field_control.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/gesture_detector.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/gradients.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/grid_view.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/haptic_feedback.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/icon.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/icon_button.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/icons.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/image.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/list_tile.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/list_view.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/local_connection.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/margin.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/markdown.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/matplotlib_chart.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/navigation_bar.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/navigation_rail.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/outlined_button.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/padding.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/page.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/plotly_chart.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/popup_menu_button.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/progress_bar.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/progress_ring.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/protocol.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/querystring.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/radio.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/radio_group.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/ref.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/responsive_row.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/row.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/semantics.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/session_storage.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/shader_mask.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/shake_detector.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/slider.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/snack_bar.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/stack.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/switch.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/tabs.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/template_route.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/text.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/text_button.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/text_style.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/textfield.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/theme.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/tooltip.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/transform.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/transparent_pointer.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/types.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/user_control.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/vertical_divider.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/view.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet_core/__pycache__/window_drag_area.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4e366e1d1d869439cbf4eecadff6e4cd39c1b47aec91e75a4c806f60e869e1fe",
+  "size": 140086,
+  "subdir": "noarch",
+  "timestamp": 1677080575635,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/flet-core-0.4.2-pyhd8ed1ab_0.conda",
+  "version": "0.4.2"
+}

@@ -1,0 +1,425 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "certifi",
+    "httpcore >=0.15.0,<0.17.0",
+    "idna",
+    "python >=3.8",
+    "rfc3986 >=1.3,<2",
+    "sniffio"
+  ],
+  "extracted_package_dir": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\httpx-0.23.3-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/httpx-0.23.3.dist-info/INSTALLER",
+    "Lib/site-packages/httpx-0.23.3.dist-info/METADATA",
+    "Lib/site-packages/httpx-0.23.3.dist-info/RECORD",
+    "Lib/site-packages/httpx-0.23.3.dist-info/REQUESTED",
+    "Lib/site-packages/httpx-0.23.3.dist-info/WHEEL",
+    "Lib/site-packages/httpx-0.23.3.dist-info/direct_url.json",
+    "Lib/site-packages/httpx-0.23.3.dist-info/entry_points.txt",
+    "Lib/site-packages/httpx-0.23.3.dist-info/licenses/LICENSE.md",
+    "Lib/site-packages/httpx/__init__.py",
+    "Lib/site-packages/httpx/__version__.py",
+    "Lib/site-packages/httpx/_api.py",
+    "Lib/site-packages/httpx/_auth.py",
+    "Lib/site-packages/httpx/_client.py",
+    "Lib/site-packages/httpx/_compat.py",
+    "Lib/site-packages/httpx/_config.py",
+    "Lib/site-packages/httpx/_content.py",
+    "Lib/site-packages/httpx/_decoders.py",
+    "Lib/site-packages/httpx/_exceptions.py",
+    "Lib/site-packages/httpx/_main.py",
+    "Lib/site-packages/httpx/_models.py",
+    "Lib/site-packages/httpx/_multipart.py",
+    "Lib/site-packages/httpx/_status_codes.py",
+    "Lib/site-packages/httpx/_transports/__init__.py",
+    "Lib/site-packages/httpx/_transports/asgi.py",
+    "Lib/site-packages/httpx/_transports/base.py",
+    "Lib/site-packages/httpx/_transports/default.py",
+    "Lib/site-packages/httpx/_transports/mock.py",
+    "Lib/site-packages/httpx/_transports/wsgi.py",
+    "Lib/site-packages/httpx/_types.py",
+    "Lib/site-packages/httpx/_urls.py",
+    "Lib/site-packages/httpx/_utils.py",
+    "Lib/site-packages/httpx/py.typed",
+    ".nonadmin",
+    "Lib/site-packages/httpx/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/__version__.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_api.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_auth.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_client.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_compat.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_config.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_content.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_decoders.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_exceptions.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_main.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_models.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_multipart.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_status_codes.cpython-311.pyc",
+    "Lib/site-packages/httpx/_transports/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/httpx/_transports/__pycache__/asgi.cpython-311.pyc",
+    "Lib/site-packages/httpx/_transports/__pycache__/base.cpython-311.pyc",
+    "Lib/site-packages/httpx/_transports/__pycache__/default.cpython-311.pyc",
+    "Lib/site-packages/httpx/_transports/__pycache__/mock.cpython-311.pyc",
+    "Lib/site-packages/httpx/_transports/__pycache__/wsgi.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_types.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_urls.cpython-311.pyc",
+    "Lib/site-packages/httpx/__pycache__/_utils.cpython-311.pyc",
+    "Scripts/httpx-script.py",
+    "Scripts/httpx.exe"
+  ],
+  "fn": "httpx-0.23.3-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\httpx-0.23.3-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "876c8fa1860f889bb47bccc528015ca7",
+  "name": "httpx",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\httpx-0.23.3-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/httpx-0.23.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/httpx-0.23.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "fdda63347896a999901c0253ecba61b94d158b63fe094c8a6fe865b5676e96ac",
+        "sha256_in_prefix": "fdda63347896a999901c0253ecba61b94d158b63fe094c8a6fe865b5676e96ac",
+        "size_in_bytes": 7119
+      },
+      {
+        "_path": "site-packages/httpx-0.23.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c48c036fb178b460e2441103524f2f383fc37df781ec40b06ef61be6699962ee",
+        "sha256_in_prefix": "c48c036fb178b460e2441103524f2f383fc37df781ec40b06ef61be6699962ee",
+        "size_in_bytes": 3698
+      },
+      {
+        "_path": "site-packages/httpx-0.23.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/httpx-0.23.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ba8c0ad4853632bf3863e65eaf402434f5a917a36a25432b5138a0ac19c8d0df",
+        "sha256_in_prefix": "ba8c0ad4853632bf3863e65eaf402434f5a917a36a25432b5138a0ac19c8d0df",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "site-packages/httpx-0.23.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "7579a8764ed6e9fa1238c92e3aea56332d55d6d1342635be934736066dda90fb",
+        "sha256_in_prefix": "7579a8764ed6e9fa1238c92e3aea56332d55d6d1342635be934736066dda90fb",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "site-packages/httpx-0.23.3.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "da55647509b12c0d6934c812376795f3da3dd070997b3866370b32eabc8a0d20",
+        "sha256_in_prefix": "da55647509b12c0d6934c812376795f3da3dd070997b3866370b32eabc8a0d20",
+        "size_in_bytes": 37
+      },
+      {
+        "_path": "site-packages/httpx-0.23.3.dist-info/licenses/LICENSE.md",
+        "path_type": "hardlink",
+        "sha256": "4ec59d544f12b5f539a3a716fd321ac58ccd8030b465221f2c880200cdf28d8d",
+        "sha256_in_prefix": "4ec59d544f12b5f539a3a716fd321ac58ccd8030b465221f2c880200cdf28d8d",
+        "size_in_bytes": 1508
+      },
+      {
+        "_path": "site-packages/httpx/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0487794f8ce34e0d972252f6bf024c9ccc299f5c5c3bd46273100a49402651d0",
+        "sha256_in_prefix": "0487794f8ce34e0d972252f6bf024c9ccc299f5c5c3bd46273100a49402651d0",
+        "size_in_bytes": 3182
+      },
+      {
+        "_path": "site-packages/httpx/__version__.py",
+        "path_type": "hardlink",
+        "sha256": "e4a02ab51e1ff87e07c41dbf72ea9043e02d34cb9f8489ecc82802f6015216e2",
+        "sha256_in_prefix": "e4a02ab51e1ff87e07c41dbf72ea9043e02d34cb9f8489ecc82802f6015216e2",
+        "size_in_bytes": 108
+      },
+      {
+        "_path": "site-packages/httpx/_api.py",
+        "path_type": "hardlink",
+        "sha256": "71553d12bcda5ef7b9aeaa0fa121ebf7225ba2f1ed202adcc51ef206835278ec",
+        "sha256_in_prefix": "71553d12bcda5ef7b9aeaa0fa121ebf7225ba2f1ed202adcc51ef206835278ec",
+        "size_in_bytes": 13011
+      },
+      {
+        "_path": "site-packages/httpx/_auth.py",
+        "path_type": "hardlink",
+        "sha256": "d244200d2946cc7ca772db62431e51757912f373d734ef59231ddd0d07f1b3ca",
+        "sha256_in_prefix": "d244200d2946cc7ca772db62431e51757912f373d734ef59231ddd0d07f1b3ca",
+        "size_in_bytes": 10675
+      },
+      {
+        "_path": "site-packages/httpx/_client.py",
+        "path_type": "hardlink",
+        "sha256": "af5dd0a7c97ad4b8c395286a5104b5817cc58444d79ce35e05e8aaa5d564713d",
+        "sha256_in_prefix": "af5dd0a7c97ad4b8c395286a5104b5817cc58444d79ce35e05e8aaa5d564713d",
+        "size_in_bytes": 68421
+      },
+      {
+        "_path": "site-packages/httpx/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "9506b84a76614be90d43c1caa52c0aae6274d2761028355a5b0c2739812f8cc2",
+        "sha256_in_prefix": "9506b84a76614be90d43c1caa52c0aae6274d2761028355a5b0c2739812f8cc2",
+        "size_in_bytes": 1602
+      },
+      {
+        "_path": "site-packages/httpx/_config.py",
+        "path_type": "hardlink",
+        "sha256": "a3fb9f5d255abb8ae31b541fe6bc8765416f73a9002b161dadfa08cdc6653bd4",
+        "sha256_in_prefix": "a3fb9f5d255abb8ae31b541fe6bc8765416f73a9002b161dadfa08cdc6653bd4",
+        "size_in_bytes": 12360
+      },
+      {
+        "_path": "site-packages/httpx/_content.py",
+        "path_type": "hardlink",
+        "sha256": "f87a6067ff0689b8a8d599f2a77430cf93b56fe11b4f42d166906291d2cf03bc",
+        "sha256_in_prefix": "f87a6067ff0689b8a8d599f2a77430cf93b56fe11b4f42d166906291d2cf03bc",
+        "size_in_bytes": 8157
+      },
+      {
+        "_path": "site-packages/httpx/_decoders.py",
+        "path_type": "hardlink",
+        "sha256": "83b500529e60874aa730cabfe66737f4f7184a34bd0a5a3d4e7d35833f3a4f91",
+        "sha256_in_prefix": "83b500529e60874aa730cabfe66737f4f7184a34bd0a5a3d4e7d35833f3a4f91",
+        "size_in_bytes": 10276
+      },
+      {
+        "_path": "site-packages/httpx/_exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "c4ac3e53abd6ef399d45e5001981cc7a061666e0c0b84e74dfd2f4f3b4877b84",
+        "sha256_in_prefix": "c4ac3e53abd6ef399d45e5001981cc7a061666e0c0b84e74dfd2f4f3b4877b84",
+        "size_in_bytes": 7880
+      },
+      {
+        "_path": "site-packages/httpx/_main.py",
+        "path_type": "hardlink",
+        "sha256": "9bd0b846eaa3381e94a8bdc5147323982e397f848348efa23911052ddc3821d3",
+        "sha256_in_prefix": "9bd0b846eaa3381e94a8bdc5147323982e397f848348efa23911052ddc3821d3",
+        "size_in_bytes": 15784
+      },
+      {
+        "_path": "site-packages/httpx/_models.py",
+        "path_type": "hardlink",
+        "sha256": "1e8f588e654c912fa510c8421a979c7d8b1e9d5672da3b0b2662827b13b9d2d2",
+        "sha256_in_prefix": "1e8f588e654c912fa510c8421a979c7d8b1e9d5672da3b0b2662827b13b9d2d2",
+        "size_in_bytes": 42696
+      },
+      {
+        "_path": "site-packages/httpx/_multipart.py",
+        "path_type": "hardlink",
+        "sha256": "2d37312af6c89156e578d0e16f7fc91086b221d6315dfc6bf35dae3ff1ee773d",
+        "sha256_in_prefix": "2d37312af6c89156e578d0e16f7fc91086b221d6315dfc6bf35dae3ff1ee773d",
+        "size_in_bytes": 8978
+      },
+      {
+        "_path": "site-packages/httpx/_status_codes.py",
+        "path_type": "hardlink",
+        "sha256": "5ca02b32b4a8a3ca0a050087745180fb0b0cd8f7124da1c4f2cbc360e51cc169",
+        "sha256_in_prefix": "5ca02b32b4a8a3ca0a050087745180fb0b0cd8f7124da1c4f2cbc360e51cc169",
+        "size_in_bytes": 5584
+      },
+      {
+        "_path": "site-packages/httpx/_transports/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/httpx/_transports/asgi.py",
+        "path_type": "hardlink",
+        "sha256": "94a00bfba761c6a4a7640d9f316b63f8ca244932338e7c306b70d3924a1fe5c1",
+        "sha256_in_prefix": "94a00bfba761c6a4a7640d9f316b63f8ca244932338e7c306b70d3924a1fe5c1",
+        "size_in_bytes": 5317
+      },
+      {
+        "_path": "site-packages/httpx/_transports/base.py",
+        "path_type": "hardlink",
+        "sha256": "d0133cc9964491d153e2d5d74a6d21d1d2b4712600e212e02278ff0658c6106c",
+        "sha256_in_prefix": "d0133cc9964491d153e2d5d74a6d21d1d2b4712600e212e02278ff0658c6106c",
+        "size_in_bytes": 2510
+      },
+      {
+        "_path": "site-packages/httpx/_transports/default.py",
+        "path_type": "hardlink",
+        "sha256": "c2f5f74823b8e788e47552910221c4cce2d3e0609f4c11c98ea5086becd2974a",
+        "sha256_in_prefix": "c2f5f74823b8e788e47552910221c4cce2d3e0609f4c11c98ea5086becd2974a",
+        "size_in_bytes": 12658
+      },
+      {
+        "_path": "site-packages/httpx/_transports/mock.py",
+        "path_type": "hardlink",
+        "sha256": "0b77aa1d022ab87546c9149637cb7c5dd8b25807c5d39ee697a277601cb2c6ae",
+        "sha256_in_prefix": "0b77aa1d022ab87546c9149637cb7c5dd8b25807c5d39ee697a277601cb2c6ae",
+        "size_in_bytes": 944
+      },
+      {
+        "_path": "site-packages/httpx/_transports/wsgi.py",
+        "path_type": "hardlink",
+        "sha256": "ef664c3c12cf57e69907881fb33fd23ab26980a25be99f56e7017186531072a8",
+        "sha256_in_prefix": "ef664c3c12cf57e69907881fb33fd23ab26980a25be99f56e7017186531072a8",
+        "size_in_bytes": 4754
+      },
+      {
+        "_path": "site-packages/httpx/_types.py",
+        "path_type": "hardlink",
+        "sha256": "0675f469d480c4b4fd073931b97f7a4b8a1d902f5474b320c2ceb06b1a842ae2",
+        "sha256_in_prefix": "0675f469d480c4b4fd073931b97f7a4b8a1d902f5474b320c2ceb06b1a842ae2",
+        "size_in_bytes": 3333
+      },
+      {
+        "_path": "site-packages/httpx/_urls.py",
+        "path_type": "hardlink",
+        "sha256": "86bd84d5cf745e6412fc7009f6956f1880827248d4e5416b2449f40bdfa350ae",
+        "sha256_in_prefix": "86bd84d5cf745e6412fc7009f6956f1880827248d4e5416b2449f40bdfa350ae",
+        "size_in_bytes": 27328
+      },
+      {
+        "_path": "site-packages/httpx/_utils.py",
+        "path_type": "hardlink",
+        "sha256": "a1dea22fa18369e41520c6317c6443109fa8291c8178bc0499f63110d1b1fef2",
+        "sha256_in_prefix": "a1dea22fa18369e41520c6317c6443109fa8291c8178bc0499f63110d1b1fef2",
+        "size_in_bytes": 17207
+      },
+      {
+        "_path": "site-packages/httpx/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/__version__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_api.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_auth.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_client.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_compat.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_config.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_content.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_decoders.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_exceptions.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_main.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_models.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_multipart.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_status_codes.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/_transports/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/_transports/__pycache__/asgi.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/_transports/__pycache__/base.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/_transports/__pycache__/default.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/_transports/__pycache__/mock.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/_transports/__pycache__/wsgi.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_types.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_urls.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/httpx/__pycache__/_utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/httpx-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/httpx.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "dcb5c86a20f9647ba657d783924b4920acb1f84e493dc49b31fa49525c751a47",
+  "size": 61352,
+  "subdir": "noarch",
+  "timestamp": 1672850756197,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/httpx-0.23.3-pyhd8ed1ab_0.conda",
+  "version": "0.23.3"
+}

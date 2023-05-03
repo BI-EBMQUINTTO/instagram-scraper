@@ -1,0 +1,109 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6",
+    "six >=1.9.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\repath-0.9.0-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/repath-0.9.0.dist-info/INSTALLER",
+    "Lib/site-packages/repath-0.9.0.dist-info/METADATA",
+    "Lib/site-packages/repath-0.9.0.dist-info/RECORD",
+    "Lib/site-packages/repath-0.9.0.dist-info/REQUESTED",
+    "Lib/site-packages/repath-0.9.0.dist-info/WHEEL",
+    "Lib/site-packages/repath-0.9.0.dist-info/direct_url.json",
+    "Lib/site-packages/repath-0.9.0.dist-info/top_level.txt",
+    "Lib/site-packages/repath.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/repath.cpython-311.pyc"
+  ],
+  "fn": "repath-0.9.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\repath-0.9.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "6bbd3a5c855e6c8f4f7440fda9f50baf",
+  "name": "repath",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\repath-0.9.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/repath-0.9.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/repath-0.9.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cf28ac2b846061852b6939ef5919c00ef30c7a0b11a6799ab2ac65d45da3c6ac",
+        "sha256_in_prefix": "cf28ac2b846061852b6939ef5919c00ef30c7a0b11a6799ab2ac65d45da3c6ac",
+        "size_in_bytes": 879
+      },
+      {
+        "_path": "site-packages/repath-0.9.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f2c245ddd9a6cf99afed61a39b1561e5042b467121577dd740f028a9b6c3d638",
+        "sha256_in_prefix": "f2c245ddd9a6cf99afed61a39b1561e5042b467121577dd740f028a9b6c3d638",
+        "size_in_bytes": 670
+      },
+      {
+        "_path": "site-packages/repath-0.9.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/repath-0.9.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/repath-0.9.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6f589b94336f2b3de1070dad43215381c1079b3475e081931d41fb3c3a2dfda5",
+        "sha256_in_prefix": "6f589b94336f2b3de1070dad43215381c1079b3475e081931d41fb3c3a2dfda5",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "site-packages/repath-0.9.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3dd9150bcb9538e4575796f0678270cfab54febf594942f085b489f8874ec837",
+        "sha256_in_prefix": "3dd9150bcb9538e4575796f0678270cfab54febf594942f085b489f8874ec837",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "site-packages/repath.py",
+        "path_type": "hardlink",
+        "sha256": "c56736a732f5406d89ee5e464880be1d34b0262a17305786247cc4058f34ecaf",
+        "sha256_in_prefix": "c56736a732f5406d89ee5e464880be1d34b0262a17305786247cc4058f34ecaf",
+        "size_in_bytes": 8205
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/repath.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b1e6b055552b9d66603cd85716032c8c4d6f56589f84498b16d553f2e259c966",
+  "size": 9231,
+  "subdir": "noarch",
+  "timestamp": 1660100240038,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/repath-0.9.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.9.0"
+}

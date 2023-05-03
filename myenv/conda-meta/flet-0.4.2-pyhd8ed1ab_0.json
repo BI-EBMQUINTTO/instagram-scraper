@@ -1,0 +1,782 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "flet-core 0.4.2",
+    "httpx >=0.23.3,<0.24.0",
+    "oauthlib >=3.2.2,<4.0.0",
+    "packaging >=23.0,<24.0",
+    "python >=3.7",
+    "requests >=2.28.1",
+    "typing_extensions >=4.4.0,<5.0.0",
+    "watchdog >=2.2.1,<3.0.0",
+    "websocket-client >=1.4.2,<2.0.0",
+    "websockets >=10.4,<11.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\flet-0.4.2-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/flet-0.4.2.dist-info/INSTALLER",
+    "Lib/site-packages/flet-0.4.2.dist-info/METADATA",
+    "Lib/site-packages/flet-0.4.2.dist-info/RECORD",
+    "Lib/site-packages/flet-0.4.2.dist-info/REQUESTED",
+    "Lib/site-packages/flet-0.4.2.dist-info/WHEEL",
+    "Lib/site-packages/flet-0.4.2.dist-info/direct_url.json",
+    "Lib/site-packages/flet-0.4.2.dist-info/entry_points.txt",
+    "Lib/site-packages/flet/__init__.py",
+    "Lib/site-packages/flet/__pyinstaller/__init__.py",
+    "Lib/site-packages/flet/__pyinstaller/config.py",
+    "Lib/site-packages/flet/__pyinstaller/hook-flet.py",
+    "Lib/site-packages/flet/__pyinstaller/macos_utils.py",
+    "Lib/site-packages/flet/__pyinstaller/rthooks.dat",
+    "Lib/site-packages/flet/__pyinstaller/rthooks/pyi_rth_localhost_fletd.py",
+    "Lib/site-packages/flet/__pyinstaller/utils.py",
+    "Lib/site-packages/flet/__pyinstaller/win_utils.py",
+    "Lib/site-packages/flet/async_local_socket_connection.py",
+    "Lib/site-packages/flet/async_websocket_connection.py",
+    "Lib/site-packages/flet/auth/authorization.py",
+    "Lib/site-packages/flet/auth/group.py",
+    "Lib/site-packages/flet/auth/oauth_provider.py",
+    "Lib/site-packages/flet/auth/oauth_token.py",
+    "Lib/site-packages/flet/auth/providers/auth0_oauth_provider.py",
+    "Lib/site-packages/flet/auth/providers/azure_oauth_provider.py",
+    "Lib/site-packages/flet/auth/providers/github_oauth_provider.py",
+    "Lib/site-packages/flet/auth/providers/google_oauth_provider.py",
+    "Lib/site-packages/flet/auth/user.py",
+    "Lib/site-packages/flet/cli/cli.py",
+    "Lib/site-packages/flet/cli/commands/base.py",
+    "Lib/site-packages/flet/cli/commands/options.py",
+    "Lib/site-packages/flet/cli/commands/pack.py",
+    "Lib/site-packages/flet/cli/commands/publish.py",
+    "Lib/site-packages/flet/cli/commands/run.py",
+    "Lib/site-packages/flet/constants.py",
+    "Lib/site-packages/flet/flet.py",
+    "Lib/site-packages/flet/matplotlib_chart.py",
+    "Lib/site-packages/flet/plotly_chart.py",
+    "Lib/site-packages/flet/pubsub.py",
+    "Lib/site-packages/flet/reconnecting_websocket.py",
+    "Lib/site-packages/flet/security.py",
+    "Lib/site-packages/flet/sync_local_socket_connection.py",
+    "Lib/site-packages/flet/sync_websocket_connection.py",
+    "Lib/site-packages/flet/utils.py",
+    "Lib/site-packages/flet/version.py",
+    "Lib/site-packages/flet/web/.last_build_id",
+    "Lib/site-packages/flet/web/assets/AssetManifest.json",
+    "Lib/site-packages/flet/web/assets/FontManifest.json",
+    "Lib/site-packages/flet/web/assets/NOTICES",
+    "Lib/site-packages/flet/web/assets/fonts/MaterialIcons-Regular.otf",
+    "Lib/site-packages/flet/web/assets/packages/window_manager/images/ic_chrome_close.png",
+    "Lib/site-packages/flet/web/assets/packages/window_manager/images/ic_chrome_maximize.png",
+    "Lib/site-packages/flet/web/assets/packages/window_manager/images/ic_chrome_minimize.png",
+    "Lib/site-packages/flet/web/assets/packages/window_manager/images/ic_chrome_unmaximize.png",
+    "Lib/site-packages/flet/web/favicon.png",
+    "Lib/site-packages/flet/web/flutter.js",
+    "Lib/site-packages/flet/web/flutter_service_worker.js",
+    "Lib/site-packages/flet/web/icons/apple-touch-icon-192.png",
+    "Lib/site-packages/flet/web/icons/icon-192.png",
+    "Lib/site-packages/flet/web/icons/icon-512.png",
+    "Lib/site-packages/flet/web/icons/icon-maskable-192.png",
+    "Lib/site-packages/flet/web/icons/icon-maskable-512.png",
+    "Lib/site-packages/flet/web/icons/loading-animation.png",
+    "Lib/site-packages/flet/web/index.html",
+    "Lib/site-packages/flet/web/main.dart.js",
+    "Lib/site-packages/flet/web/manifest.json",
+    "Lib/site-packages/flet/web/python-worker.js",
+    "Lib/site-packages/flet/web/python.js",
+    "Lib/site-packages/flet/web/version.json",
+    ".nonadmin",
+    "Lib/site-packages/flet/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/flet/__pyinstaller/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/flet/__pyinstaller/__pycache__/config.cpython-311.pyc",
+    "Lib/site-packages/flet/__pyinstaller/__pycache__/hook-flet.cpython-311.pyc",
+    "Lib/site-packages/flet/__pyinstaller/__pycache__/macos_utils.cpython-311.pyc",
+    "Lib/site-packages/flet/__pyinstaller/rthooks/__pycache__/pyi_rth_localhost_fletd.cpython-311.pyc",
+    "Lib/site-packages/flet/__pyinstaller/__pycache__/utils.cpython-311.pyc",
+    "Lib/site-packages/flet/__pyinstaller/__pycache__/win_utils.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/async_local_socket_connection.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/async_websocket_connection.cpython-311.pyc",
+    "Lib/site-packages/flet/auth/__pycache__/authorization.cpython-311.pyc",
+    "Lib/site-packages/flet/auth/__pycache__/group.cpython-311.pyc",
+    "Lib/site-packages/flet/auth/__pycache__/oauth_provider.cpython-311.pyc",
+    "Lib/site-packages/flet/auth/__pycache__/oauth_token.cpython-311.pyc",
+    "Lib/site-packages/flet/auth/providers/__pycache__/auth0_oauth_provider.cpython-311.pyc",
+    "Lib/site-packages/flet/auth/providers/__pycache__/azure_oauth_provider.cpython-311.pyc",
+    "Lib/site-packages/flet/auth/providers/__pycache__/github_oauth_provider.cpython-311.pyc",
+    "Lib/site-packages/flet/auth/providers/__pycache__/google_oauth_provider.cpython-311.pyc",
+    "Lib/site-packages/flet/auth/__pycache__/user.cpython-311.pyc",
+    "Lib/site-packages/flet/cli/__pycache__/cli.cpython-311.pyc",
+    "Lib/site-packages/flet/cli/commands/__pycache__/base.cpython-311.pyc",
+    "Lib/site-packages/flet/cli/commands/__pycache__/options.cpython-311.pyc",
+    "Lib/site-packages/flet/cli/commands/__pycache__/pack.cpython-311.pyc",
+    "Lib/site-packages/flet/cli/commands/__pycache__/publish.cpython-311.pyc",
+    "Lib/site-packages/flet/cli/commands/__pycache__/run.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/constants.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/flet.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/matplotlib_chart.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/plotly_chart.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/pubsub.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/reconnecting_websocket.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/security.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/sync_local_socket_connection.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/sync_websocket_connection.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/utils.cpython-311.pyc",
+    "Lib/site-packages/flet/__pycache__/version.cpython-311.pyc",
+    "Scripts/flet-script.py",
+    "Scripts/flet.exe"
+  ],
+  "fn": "flet-0.4.2-pyhd8ed1ab_0.conda",
+  "license": "Apache-2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\flet-0.4.2-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "bf55d53f1be277a65748d4f041571d45",
+  "name": "flet",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\EBMquintto\\anaconda3\\pkgs\\flet-0.4.2-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/flet-0.4.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/flet-0.4.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f84709dd2d5157a3631b6b8c4deb34726f660ad21d3b15ffe98d904f91c207f7",
+        "sha256_in_prefix": "f84709dd2d5157a3631b6b8c4deb34726f660ad21d3b15ffe98d904f91c207f7",
+        "size_in_bytes": 3297
+      },
+      {
+        "_path": "site-packages/flet-0.4.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "331488bcdc246f125799ab74ec9f3c47948b2d773e7a6609d221da0a2393115d",
+        "sha256_in_prefix": "331488bcdc246f125799ab74ec9f3c47948b2d773e7a6609d221da0a2393115d",
+        "size_in_bytes": 8018
+      },
+      {
+        "_path": "site-packages/flet-0.4.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/flet-0.4.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "90bb84f26d56614d08834fd8106ad7c93b6226f28fa4ba431220a188dc9e8b96",
+        "sha256_in_prefix": "90bb84f26d56614d08834fd8106ad7c93b6226f28fa4ba431220a188dc9e8b96",
+        "size_in_bytes": 88
+      },
+      {
+        "_path": "site-packages/flet-0.4.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a06bc20890bccdafec7690f56d08a0b451e55e621bbdef4c2510c08b462ea624",
+        "sha256_in_prefix": "a06bc20890bccdafec7690f56d08a0b451e55e621bbdef4c2510c08b462ea624",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "site-packages/flet-0.4.2.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "a72bd99b373586e2a66c89242f1befe3f515a5f84960a980bef736f391fac9f9",
+        "sha256_in_prefix": "a72bd99b373586e2a66c89242f1befe3f515a5f84960a980bef736f391fac9f9",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "site-packages/flet/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "181957d5a1a435da4613bd84d2624b8c96399ce38616c31f028d90e0f0109a81",
+        "sha256_in_prefix": "181957d5a1a435da4613bd84d2624b8c96399ce38616c31f028d90e0f0109a81",
+        "size_in_bytes": 155
+      },
+      {
+        "_path": "site-packages/flet/__pyinstaller/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f9ce19a3c9d018a026f3073f2c3b1cc4cb4aef3aff6216704670bd08caee5011",
+        "sha256_in_prefix": "f9ce19a3c9d018a026f3073f2c3b1cc4cb4aef3aff6216704670bd08caee5011",
+        "size_in_bytes": 72
+      },
+      {
+        "_path": "site-packages/flet/__pyinstaller/config.py",
+        "path_type": "hardlink",
+        "sha256": "30dd883eee772b5443ca1fca138c087101fc125fe7e19ddf0fa34eda2abccbbe",
+        "sha256_in_prefix": "30dd883eee772b5443ca1fca138c087101fc125fe7e19ddf0fa34eda2abccbbe",
+        "size_in_bytes": 20
+      },
+      {
+        "_path": "site-packages/flet/__pyinstaller/hook-flet.py",
+        "path_type": "hardlink",
+        "sha256": "0aa5debde104c5628465da6f28e3d4f67103447a90aa699d4c2c8ddac5268c14",
+        "sha256_in_prefix": "0aa5debde104c5628465da6f28e3d4f67103447a90aa699d4c2c8ddac5268c14",
+        "size_in_bytes": 378
+      },
+      {
+        "_path": "site-packages/flet/__pyinstaller/macos_utils.py",
+        "path_type": "hardlink",
+        "sha256": "1d427f539749d0adc1a0c9d2fe4f9592cdd7a307026c8cba19558389d2daa379",
+        "sha256_in_prefix": "1d427f539749d0adc1a0c9d2fe4f9592cdd7a307026c8cba19558389d2daa379",
+        "size_in_bytes": 2985
+      },
+      {
+        "_path": "site-packages/flet/__pyinstaller/rthooks.dat",
+        "path_type": "hardlink",
+        "sha256": "6e3263bb00c90637c867e1171887d572b06ee54cff60d704c9668a9088b2a0fa",
+        "sha256_in_prefix": "6e3263bb00c90637c867e1171887d572b06ee54cff60d704c9668a9088b2a0fa",
+        "size_in_bytes": 61
+      },
+      {
+        "_path": "site-packages/flet/__pyinstaller/rthooks/pyi_rth_localhost_fletd.py",
+        "path_type": "hardlink",
+        "sha256": "f6ea235a77c7c185edb850ba123c434f5df7cf82155dfcbb3638fcc6badc3f2b",
+        "sha256_in_prefix": "f6ea235a77c7c185edb850ba123c434f5df7cf82155dfcbb3638fcc6badc3f2b",
+        "size_in_bytes": 131
+      },
+      {
+        "_path": "site-packages/flet/__pyinstaller/utils.py",
+        "path_type": "hardlink",
+        "sha256": "5841fb7c12609d4f7e6cd3a4cbc9dfd35120e17e6c9f717cd0c7fda8b25a6266",
+        "sha256_in_prefix": "5841fb7c12609d4f7e6cd3a4cbc9dfd35120e17e6c9f717cd0c7fda8b25a6266",
+        "size_in_bytes": 562
+      },
+      {
+        "_path": "site-packages/flet/__pyinstaller/win_utils.py",
+        "path_type": "hardlink",
+        "sha256": "c882e9505fe58ecd47c93657193c68b529cdae303dbe7bd0ae567ac00ae11fad",
+        "sha256_in_prefix": "c882e9505fe58ecd47c93657193c68b529cdae303dbe7bd0ae567ac00ae11fad",
+        "size_in_bytes": 3636
+      },
+      {
+        "_path": "site-packages/flet/async_local_socket_connection.py",
+        "path_type": "hardlink",
+        "sha256": "39699b8950ac5aa73f7d79f7a25d05c0768b26b84529b2ebf9d705e9a57eff79",
+        "sha256_in_prefix": "39699b8950ac5aa73f7d79f7a25d05c0768b26b84529b2ebf9d705e9a57eff79",
+        "size_in_bytes": 6175
+      },
+      {
+        "_path": "site-packages/flet/async_websocket_connection.py",
+        "path_type": "hardlink",
+        "sha256": "cf972a773d9f2e1693a4b1be8109c2cebda269ddc14e8de8c212379153543f9d",
+        "sha256_in_prefix": "cf972a773d9f2e1693a4b1be8109c2cebda269ddc14e8de8c212379153543f9d",
+        "size_in_bytes": 7136
+      },
+      {
+        "_path": "site-packages/flet/auth/authorization.py",
+        "path_type": "hardlink",
+        "sha256": "2ef40b37b833cffa5e7891cb4ebe683f7b84bacf639d79844eb345af96434b82",
+        "sha256_in_prefix": "2ef40b37b833cffa5e7891cb4ebe683f7b84bacf639d79844eb345af96434b82",
+        "size_in_bytes": 8919
+      },
+      {
+        "_path": "site-packages/flet/auth/group.py",
+        "path_type": "hardlink",
+        "sha256": "b3a10f2b8f0157b6ce1d9d66efe9f608168600c1b677a02938ecef0330f6fa23",
+        "sha256_in_prefix": "b3a10f2b8f0157b6ce1d9d66efe9f608168600c1b677a02938ecef0330f6fa23",
+        "size_in_bytes": 128
+      },
+      {
+        "_path": "site-packages/flet/auth/oauth_provider.py",
+        "path_type": "hardlink",
+        "sha256": "50728a51e112a1a0088280818cf97f1bdf8fc607209ae8a11da6ca6dfbc50691",
+        "sha256_in_prefix": "50728a51e112a1a0088280818cf97f1bdf8fc607209ae8a11da6ca6dfbc50691",
+        "size_in_bytes": 1499
+      },
+      {
+        "_path": "site-packages/flet/auth/oauth_token.py",
+        "path_type": "hardlink",
+        "sha256": "8a9528d454d9172fc7c2c226a7ed2f621f2144c33cc2b251d17b3a933517676f",
+        "sha256_in_prefix": "8a9528d454d9172fc7c2c226a7ed2f621f2144c33cc2b251d17b3a933517676f",
+        "size_in_bytes": 847
+      },
+      {
+        "_path": "site-packages/flet/auth/providers/auth0_oauth_provider.py",
+        "path_type": "hardlink",
+        "sha256": "37ba9fc721ff95d2fbb5f658dcd8779951784172d6fde9e6779de9a65f8a90d8",
+        "sha256_in_prefix": "37ba9fc721ff95d2fbb5f658dcd8779951784172d6fde9e6779de9a65f8a90d8",
+        "size_in_bytes": 735
+      },
+      {
+        "_path": "site-packages/flet/auth/providers/azure_oauth_provider.py",
+        "path_type": "hardlink",
+        "sha256": "105f3e365fc74792de3f7c33b55e48570ac4cc65d891df68218cb3be625eb7c2",
+        "sha256_in_prefix": "105f3e365fc74792de3f7c33b55e48570ac4cc65d891df68218cb3be625eb7c2",
+        "size_in_bytes": 840
+      },
+      {
+        "_path": "site-packages/flet/auth/providers/github_oauth_provider.py",
+        "path_type": "hardlink",
+        "sha256": "9c8035d267326a9b5f31d138324f32c2241e5d8a9a9d803b15bdff5b90aaec49",
+        "sha256_in_prefix": "9c8035d267326a9b5f31d138324f32c2241e5d8a9a9d803b15bdff5b90aaec49",
+        "size_in_bytes": 3669
+      },
+      {
+        "_path": "site-packages/flet/auth/providers/google_oauth_provider.py",
+        "path_type": "hardlink",
+        "sha256": "4463d07db6a5e770baa246a788379e82dd461fc4efc80be36ba1be48d99ef115",
+        "sha256_in_prefix": "4463d07db6a5e770baa246a788379e82dd461fc4efc80be36ba1be48d99ef115",
+        "size_in_bytes": 799
+      },
+      {
+        "_path": "site-packages/flet/auth/user.py",
+        "path_type": "hardlink",
+        "sha256": "d0ca455680f3cf1fe36a73f49be57f2e9dcf8c4585cdc8a681fe4d1fbdacb081",
+        "sha256_in_prefix": "d0ca455680f3cf1fe36a73f49be57f2e9dcf8c4585cdc8a681fe4d1fbdacb081",
+        "size_in_bytes": 182
+      },
+      {
+        "_path": "site-packages/flet/cli/cli.py",
+        "path_type": "hardlink",
+        "sha256": "77c9ed698798c76af69078ec6d737da977687d4c17088984d10d9f1a82fd7423",
+        "sha256_in_prefix": "77c9ed698798c76af69078ec6d737da977687d4c17088984d10d9f1a82fd7423",
+        "size_in_bytes": 2958
+      },
+      {
+        "_path": "site-packages/flet/cli/commands/base.py",
+        "path_type": "hardlink",
+        "sha256": "65effc03240af1f3ade73e03ca893342e0ce7626d6233413ed27914e172257ef",
+        "sha256_in_prefix": "65effc03240af1f3ade73e03ca893342e0ce7626d6233413ed27914e172257ef",
+        "size_in_bytes": 1953
+      },
+      {
+        "_path": "site-packages/flet/cli/commands/options.py",
+        "path_type": "hardlink",
+        "sha256": "3ae56bd906b403ccf55218fed896e7f00faf6533aa71921a84c25be6eda58c23",
+        "sha256_in_prefix": "3ae56bd906b403ccf55218fed896e7f00faf6533aa71921a84c25be6eda58c23",
+        "size_in_bytes": 673
+      },
+      {
+        "_path": "site-packages/flet/cli/commands/pack.py",
+        "path_type": "hardlink",
+        "sha256": "b48a9f267a6316984112ef1729d23d352d7379edab14df2e78dc8379d78ff798",
+        "sha256_in_prefix": "b48a9f267a6316984112ef1729d23d352d7379edab14df2e78dc8379d78ff798",
+        "size_in_bytes": 8449
+      },
+      {
+        "_path": "site-packages/flet/cli/commands/publish.py",
+        "path_type": "hardlink",
+        "sha256": "98bdeb4dbb008ac0ef25f3fa7fda6fe9c1aa78ea2794f74a7340a30c12e1db81",
+        "sha256_in_prefix": "98bdeb4dbb008ac0ef25f3fa7fda6fe9c1aa78ea2794f74a7340a30c12e1db81",
+        "size_in_bytes": 8885
+      },
+      {
+        "_path": "site-packages/flet/cli/commands/run.py",
+        "path_type": "hardlink",
+        "sha256": "10f0c0bcacef4d6683c2c6e5efaa895820bcac4db579d8933c8fcefc952cd24a",
+        "sha256_in_prefix": "10f0c0bcacef4d6683c2c6e5efaa895820bcac4db579d8933c8fcefc952cd24a",
+        "size_in_bytes": 6711
+      },
+      {
+        "_path": "site-packages/flet/constants.py",
+        "path_type": "hardlink",
+        "sha256": "65b421aecac4eba8afaf68ea31625e79a978393a2e8f80dd17de2cd2f022caba",
+        "sha256_in_prefix": "65b421aecac4eba8afaf68ea31625e79a978393a2e8f80dd17de2cd2f022caba",
+        "size_in_bytes": 52
+      },
+      {
+        "_path": "site-packages/flet/flet.py",
+        "path_type": "hardlink",
+        "sha256": "513b1737628070a81d49d6166b9447a69e4ef288202457160b3d59f9433266d6",
+        "sha256_in_prefix": "513b1737628070a81d49d6166b9447a69e4ef288202457160b3d59f9433266d6",
+        "size_in_bytes": 21320
+      },
+      {
+        "_path": "site-packages/flet/matplotlib_chart.py",
+        "path_type": "hardlink",
+        "sha256": "ea6737efea28d4670b5fc57106f5a7a01cfc64a6cbcbb8ccfa7c23aeccf608ea",
+        "sha256_in_prefix": "ea6737efea28d4670b5fc57106f5a7a01cfc64a6cbcbb8ccfa7c23aeccf608ea",
+        "size_in_bytes": 55
+      },
+      {
+        "_path": "site-packages/flet/plotly_chart.py",
+        "path_type": "hardlink",
+        "sha256": "a8d25b8a918e0e114e69698f8c5c77faf01ff70704aaa8a51b87a16410976a11",
+        "sha256_in_prefix": "a8d25b8a918e0e114e69698f8c5c77faf01ff70704aaa8a51b87a16410976a11",
+        "size_in_bytes": 47
+      },
+      {
+        "_path": "site-packages/flet/pubsub.py",
+        "path_type": "hardlink",
+        "sha256": "7abb31b2b54355b80579a3cfeadb76926d0e3106a2abaf33a7cbd625bb75ae7b",
+        "sha256_in_prefix": "7abb31b2b54355b80579a3cfeadb76926d0e3106a2abaf33a7cbd625bb75ae7b",
+        "size_in_bytes": 10039
+      },
+      {
+        "_path": "site-packages/flet/reconnecting_websocket.py",
+        "path_type": "hardlink",
+        "sha256": "01da7799966007de959b523063c6cfe9630de313cace87e62a43384e26e05e04",
+        "sha256_in_prefix": "01da7799966007de959b523063c6cfe9630de313cace87e62a43384e26e05e04",
+        "size_in_bytes": 2998
+      },
+      {
+        "_path": "site-packages/flet/security.py",
+        "path_type": "hardlink",
+        "sha256": "3b6f7f7ee601564176d8c7907988a2075e38d49e4563be2dd0d1ee9daf04cbbc",
+        "sha256_in_prefix": "3b6f7f7ee601564176d8c7907988a2075e38d49e4563be2dd0d1ee9daf04cbbc",
+        "size_in_bytes": 1272
+      },
+      {
+        "_path": "site-packages/flet/sync_local_socket_connection.py",
+        "path_type": "hardlink",
+        "sha256": "dd5c73c1163fe2f9bcb1a7591b14ab5b4f1c295c8e87571aed2980dc66994d0b",
+        "sha256_in_prefix": "dd5c73c1163fe2f9bcb1a7591b14ab5b4f1c295c8e87571aed2980dc66994d0b",
+        "size_in_bytes": 6799
+      },
+      {
+        "_path": "site-packages/flet/sync_websocket_connection.py",
+        "path_type": "hardlink",
+        "sha256": "58273c8aef89278ef307ba078e36e2ab99ac6d31a311b551854294de427c8747",
+        "sha256_in_prefix": "58273c8aef89278ef307ba078e36e2ab99ac6d31a311b551854294de427c8747",
+        "size_in_bytes": 5344
+      },
+      {
+        "_path": "site-packages/flet/utils.py",
+        "path_type": "hardlink",
+        "sha256": "2db65710548a5893883b897fc4686a33958370dbe0c1993a729557659b44ebed",
+        "sha256_in_prefix": "2db65710548a5893883b897fc4686a33958370dbe0c1993a729557659b44ebed",
+        "size_in_bytes": 6955
+      },
+      {
+        "_path": "site-packages/flet/version.py",
+        "path_type": "hardlink",
+        "sha256": "fcb21da1bce57d38c93982ec9253d9c7ce421e3e0566992cdb83275e7ff1bc29",
+        "sha256_in_prefix": "fcb21da1bce57d38c93982ec9253d9c7ce421e3e0566992cdb83275e7ff1bc29",
+        "size_in_bytes": 1423
+      },
+      {
+        "_path": "site-packages/flet/web/.last_build_id",
+        "path_type": "hardlink",
+        "sha256": "439a7d14534caf24064345aaef8f9aabb0db9d7e505fa62d4faac45ae9d8c02c",
+        "sha256_in_prefix": "439a7d14534caf24064345aaef8f9aabb0db9d7e505fa62d4faac45ae9d8c02c",
+        "size_in_bytes": 32
+      },
+      {
+        "_path": "site-packages/flet/web/assets/AssetManifest.json",
+        "path_type": "hardlink",
+        "sha256": "3309ad79ac4343ec42a15bade7bafac6765ace01161365ebea0d0e99a0e82100",
+        "sha256_in_prefix": "3309ad79ac4343ec42a15bade7bafac6765ace01161365ebea0d0e99a0e82100",
+        "size_in_bytes": 455
+      },
+      {
+        "_path": "site-packages/flet/web/assets/FontManifest.json",
+        "path_type": "hardlink",
+        "sha256": "28b1eb2b3d2e1ad60b8c8b0f9100b1ccbf492f7fa97f5bebb51ea97e73926e7d",
+        "sha256_in_prefix": "28b1eb2b3d2e1ad60b8c8b0f9100b1ccbf492f7fa97f5bebb51ea97e73926e7d",
+        "size_in_bytes": 82
+      },
+      {
+        "_path": "site-packages/flet/web/assets/NOTICES",
+        "path_type": "hardlink",
+        "sha256": "bebf965570c7934f79e15a5ad16af10279f3e187e649cc707c90d4e3d12d654e",
+        "sha256_in_prefix": "bebf965570c7934f79e15a5ad16af10279f3e187e649cc707c90d4e3d12d654e",
+        "size_in_bytes": 915346
+      },
+      {
+        "_path": "site-packages/flet/web/assets/fonts/MaterialIcons-Regular.otf",
+        "path_type": "hardlink",
+        "sha256": "d9865b671a09d683d13a863089d8825e0f61a37696ce5d7d448bc8023aa62453",
+        "sha256_in_prefix": "d9865b671a09d683d13a863089d8825e0f61a37696ce5d7d448bc8023aa62453",
+        "size_in_bytes": 1645184
+      },
+      {
+        "_path": "site-packages/flet/web/assets/packages/window_manager/images/ic_chrome_close.png",
+        "path_type": "hardlink",
+        "sha256": "70fe0130bbbd928d04cd33a49ecde422ec54fd748b7a4e983f4e31be6e73f5f5",
+        "sha256_in_prefix": "70fe0130bbbd928d04cd33a49ecde422ec54fd748b7a4e983f4e31be6e73f5f5",
+        "size_in_bytes": 298
+      },
+      {
+        "_path": "site-packages/flet/web/assets/packages/window_manager/images/ic_chrome_maximize.png",
+        "path_type": "hardlink",
+        "sha256": "93f2ed012ec01288b78ad4816ef254261e9ff25e8a9858359b45431c9a5de5f4",
+        "sha256_in_prefix": "93f2ed012ec01288b78ad4816ef254261e9ff25e8a9858359b45431c9a5de5f4",
+        "size_in_bytes": 271
+      },
+      {
+        "_path": "site-packages/flet/web/assets/packages/window_manager/images/ic_chrome_minimize.png",
+        "path_type": "hardlink",
+        "sha256": "0976edbb9977136544af17de125f345a41065694de92036d9365817ea6d8f05a",
+        "sha256_in_prefix": "0976edbb9977136544af17de125f345a41065694de92036d9365817ea6d8f05a",
+        "size_in_bytes": 166
+      },
+      {
+        "_path": "site-packages/flet/web/assets/packages/window_manager/images/ic_chrome_unmaximize.png",
+        "path_type": "hardlink",
+        "sha256": "3d375930c514ec2ebc0603ad1e1398b4daf458951042a97232d16f17e1c9603b",
+        "sha256_in_prefix": "3d375930c514ec2ebc0603ad1e1398b4daf458951042a97232d16f17e1c9603b",
+        "size_in_bytes": 366
+      },
+      {
+        "_path": "site-packages/flet/web/favicon.png",
+        "path_type": "hardlink",
+        "sha256": "f3763b8a28511c80b500b6176158b3ad1b3630d440d986d618bdd40f82d3bce2",
+        "sha256_in_prefix": "f3763b8a28511c80b500b6176158b3ad1b3630d440d986d618bdd40f82d3bce2",
+        "size_in_bytes": 1028
+      },
+      {
+        "_path": "site-packages/flet/web/flutter.js",
+        "path_type": "hardlink",
+        "sha256": "9ec1a8902a32df9326650caa73ef244c5069d73b0e8fe8f6c026de74aff7a2cd",
+        "sha256_in_prefix": "9ec1a8902a32df9326650caa73ef244c5069d73b0e8fe8f6c026de74aff7a2cd",
+        "size_in_bytes": 13575
+      },
+      {
+        "_path": "site-packages/flet/web/flutter_service_worker.js",
+        "path_type": "hardlink",
+        "sha256": "b9af257694b9123f1e2a2d0af0a68edb6358b9bce92bf974cc8fd0fa283e25e2",
+        "sha256_in_prefix": "b9af257694b9123f1e2a2d0af0a68edb6358b9bce92bf974cc8fd0fa283e25e2",
+        "size_in_bytes": 7836
+      },
+      {
+        "_path": "site-packages/flet/web/icons/apple-touch-icon-192.png",
+        "path_type": "hardlink",
+        "sha256": "748829cc06543f29cde4194535ade2c7f5425b7e09974be29a48bbe8a6fb639a",
+        "sha256_in_prefix": "748829cc06543f29cde4194535ade2c7f5425b7e09974be29a48bbe8a6fb639a",
+        "size_in_bytes": 4699
+      },
+      {
+        "_path": "site-packages/flet/web/icons/icon-192.png",
+        "path_type": "hardlink",
+        "sha256": "ae97e3d87e0110c2cf23953c33a78efdba2aef73b11d8225ac7875529d8ca2ba",
+        "sha256_in_prefix": "ae97e3d87e0110c2cf23953c33a78efdba2aef73b11d8225ac7875529d8ca2ba",
+        "size_in_bytes": 6622
+      },
+      {
+        "_path": "site-packages/flet/web/icons/icon-512.png",
+        "path_type": "hardlink",
+        "sha256": "2d8b09030a1cd6846ba0ba1a9186d81c925037e70db4e8e68f5402a2813bd68a",
+        "sha256_in_prefix": "2d8b09030a1cd6846ba0ba1a9186d81c925037e70db4e8e68f5402a2813bd68a",
+        "size_in_bytes": 18666
+      },
+      {
+        "_path": "site-packages/flet/web/icons/icon-maskable-192.png",
+        "path_type": "hardlink",
+        "sha256": "26342d71cccce4cd5d74ce16e44b49b0d251fa41cef625f3982fd38166aab311",
+        "sha256_in_prefix": "26342d71cccce4cd5d74ce16e44b49b0d251fa41cef625f3982fd38166aab311",
+        "size_in_bytes": 4128
+      },
+      {
+        "_path": "site-packages/flet/web/icons/icon-maskable-512.png",
+        "path_type": "hardlink",
+        "sha256": "22ae7e4d04bd0549f653b4fcced813a21d848969cb87d5b86931c81a36b973ca",
+        "sha256_in_prefix": "22ae7e4d04bd0549f653b4fcced813a21d848969cb87d5b86931c81a36b973ca",
+        "size_in_bytes": 11906
+      },
+      {
+        "_path": "site-packages/flet/web/icons/loading-animation.png",
+        "path_type": "hardlink",
+        "sha256": "665e8d4ff42b56a3546adc1caa64996b0165331587b1d9b8f775c304e138827e",
+        "sha256_in_prefix": "665e8d4ff42b56a3546adc1caa64996b0165331587b1d9b8f775c304e138827e",
+        "size_in_bytes": 17040
+      },
+      {
+        "_path": "site-packages/flet/web/index.html",
+        "path_type": "hardlink",
+        "sha256": "33f26450264a1497deb36a71680b5eab849b104791cd4471bebb24e5c0855261",
+        "sha256_in_prefix": "33f26450264a1497deb36a71680b5eab849b104791cd4471bebb24e5c0855261",
+        "size_in_bytes": 2971
+      },
+      {
+        "_path": "site-packages/flet/web/main.dart.js",
+        "path_type": "hardlink",
+        "sha256": "2642423c6d0b14dea2077b77aa43d9d6ee0b664f3720a10075b0f9f2bca9eadb",
+        "sha256_in_prefix": "2642423c6d0b14dea2077b77aa43d9d6ee0b664f3720a10075b0f9f2bca9eadb",
+        "size_in_bytes": 5178503
+      },
+      {
+        "_path": "site-packages/flet/web/manifest.json",
+        "path_type": "hardlink",
+        "sha256": "eb2da75610935054b2df8997ecbea581957700109b67a7da2f7496dcad9c6311",
+        "sha256_in_prefix": "eb2da75610935054b2df8997ecbea581957700109b67a7da2f7496dcad9c6311",
+        "size_in_bytes": 789
+      },
+      {
+        "_path": "site-packages/flet/web/python-worker.js",
+        "path_type": "hardlink",
+        "sha256": "0b846ce4e751a7c1e7dc8f314291cf3c69c8225bab5124a04296d08debaa54de",
+        "sha256_in_prefix": "0b846ce4e751a7c1e7dc8f314291cf3c69c8225bab5124a04296d08debaa54de",
+        "size_in_bytes": 1573
+      },
+      {
+        "_path": "site-packages/flet/web/python.js",
+        "path_type": "hardlink",
+        "sha256": "5734bbf2276ab94355fce7193af157fb17f8644ad8229f854a3bfcbbd7e358c2",
+        "sha256_in_prefix": "5734bbf2276ab94355fce7193af157fb17f8644ad8229f854a3bfcbbd7e358c2",
+        "size_in_bytes": 744
+      },
+      {
+        "_path": "site-packages/flet/web/version.json",
+        "path_type": "hardlink",
+        "sha256": "337c328f1fbabe4bdc2dfb5113a7b8ba02bca18a18960d7dc44699c1bae07c7c",
+        "sha256_in_prefix": "337c328f1fbabe4bdc2dfb5113a7b8ba02bca18a18960d7dc44699c1bae07c7c",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pyinstaller/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pyinstaller/__pycache__/config.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pyinstaller/__pycache__/hook-flet.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pyinstaller/__pycache__/macos_utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pyinstaller/rthooks/__pycache__/pyi_rth_localhost_fletd.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pyinstaller/__pycache__/utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pyinstaller/__pycache__/win_utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/async_local_socket_connection.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/async_websocket_connection.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/auth/__pycache__/authorization.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/auth/__pycache__/group.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/auth/__pycache__/oauth_provider.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/auth/__pycache__/oauth_token.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/auth/providers/__pycache__/auth0_oauth_provider.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/auth/providers/__pycache__/azure_oauth_provider.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/auth/providers/__pycache__/github_oauth_provider.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/auth/providers/__pycache__/google_oauth_provider.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/auth/__pycache__/user.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/cli/__pycache__/cli.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/cli/commands/__pycache__/base.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/cli/commands/__pycache__/options.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/cli/commands/__pycache__/pack.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/cli/commands/__pycache__/publish.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/cli/commands/__pycache__/run.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/constants.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/flet.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/matplotlib_chart.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/plotly_chart.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/pubsub.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/reconnecting_websocket.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/security.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/sync_local_socket_connection.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/sync_websocket_connection.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flet/__pycache__/version.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/flet-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/flet.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "flet",
+  "sha256": "ad822dc0870fa3a44c720e468263b6fde34ea19806613f520a3dcb0a2a82781a",
+  "size": 1728478,
+  "subdir": "noarch",
+  "timestamp": 1677083157065,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/flet-0.4.2-pyhd8ed1ab_0.conda",
+  "version": "0.4.2"
+}
