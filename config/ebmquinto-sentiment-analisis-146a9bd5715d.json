@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "ebmquinto-sentiment-analisis",
-  "private_key_id": "146a9bd5715d7f9ac90d057fdd0f7791fbc18592",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+RoGjobipFJsX\nhFdOuBgYb/igBmyxPT3sNp8utHBvuNX+2qhmwalao4SpJFqrsGy+FTR/xiR4jBZG\nkJ7Fx51CQBpR3jpw86c0xWcsdIKgrJ/3+jA76uZhFw052ip3XbiOpxKFAhC0pRi5\nlzv9KKZXtqzCpozuT29ANqR1XEGEkF356pIzqNKcFcHiQ+0izbUB9DEMyyRKJkja\n3eneIhqOIOBTmyIFKSEFOiQepalhSl/ZCsg7Ikh7LVEe+yRLy/XShw9ThF5aSlEX\ngBwc5NxUyCw/AyLWba83L7CCRzVH5u+LhCX8VVf8ihtDhj+Z34ev5ls+bOZ7kZty\nmYOyS4ZxAgMBAAECggEACXbQ0m6EFJbjivUocZArFKYXIACJzfwNlS73VnefoxL2\nw+0k1K2bypgZDF+0Sddl5UOBP7y/iiZvojVlzFEcM5QkKv/KeN1JqxCJi/bEm5DS\niR9O4GAT8u7WV9MP6y2EdUX+oBKE+bM/ilWpJHOt6G175NeraVwWnMNLBVJgKON+\nVDjE2f77MdSdI55xu0vUbb9f79p4MZC913hV6I3FI639GoAru19mwykBU5LU1PcH\n6ksF5rGIGUHxz4cWOiq9TT+YDjN2x0MjVPT2iS8jnAb5jTf/Yx6jd3aIQYn18thS\ncwG4r6r8vxe2oTQvr8cF3ehzUhvgQuvovj76l4qzAQKBgQDz++lrBD4HyjmVv5Wn\ns+VbjF4E9g93CVpp96cO+Bsq/xQ9iutHo8549LVXvQat/YQzaTGUZ6YzsebzWQ+8\naKNsQbgfQGee5pch+1Y4J0mOXFcZwoUWmH8LXRRvWfN6XCEdgTp/OA0KMdeTeIsP\n95Ej89aydxHXfR0JeHGbrfK1wQKBgQDHpXM8rsDAgeN6eWAVRfKPkBtt5tW/Ccnl\nHUamXkSHvcRNxalWDDaUTvii8ttImrMUZlnJOCaD95YwvHvjPmW8ti3NW/hodUv7\nwt4MFBptbgUA9UXyZShgB7wN97elQs5WgCc9EbP16AhovUWa8/v/GWSiZKmpSgfT\n1ccCL8rcsQKBgQClxF8n3Z8DjesoCh307i4D0E/E0SVavBkY7DEt43YZ9WrcEXmf\nl/Tdi212KjDSn+9lOrB74xwx/UorxjQBz5pRICmn2gtNE+BVLz26Mz8voR9wmg/w\ndTXEE76hlRzu4o+BS17iNsPtTEXqpTjeZVbQdYhGgs21egTzfUi6/CluQQKBgFWy\nJBPhIyW+20j//olDHAoZnlx/YDJ/XiU1etUA08O8Zh3IAZbI6Uih2UIAorW4ibPw\n9wtTSd0Nkm9bCIaTixIE1QY4OxmDd9kaXTusCWf9eLJfleWlHD6UM1l/glmyomUo\n3y7sgWXFco6a59zKa9mlKbg3I0hiWZfJRIIgx6ARAoGBALoMDiumh9lsv5UQQjCZ\nmrgm0TpwxLOTpBx1tZx1ma+IIlKJ6SDQyyo7urIMRJUIgp/iWXragly/MFKcC4mn\nUBBSOGQv3VSEweLWiAAmiodVhZH2D6cK4YpIDvKhkPKJ9OZp52CmYPmuZ+1Cp2Lg\nyFNouFsjNnmWjaEUDm1jB6HC\n-----END PRIVATE KEY-----\n",
-  "client_email": "ebmquinttosentiment@ebmquinto-sentiment-analisis.iam.gserviceaccount.com",
-  "client_id": "108470801729771833852",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ebmquinttosentiment%40ebmquinto-sentiment-analisis.iam.gserviceaccount.com"
-}
+
